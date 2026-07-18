@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Atia 👋</h1>
 <h3 align="center">Student · Exploring Python, AI & Cybersecurity</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtiaAbk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/AtiaAbk?tab=followers"><img src="https://img.shields.io/github/followers/AtiaAbk?label=Followers&style=flat&color=0e75b6" alt="Followers" /></a>
-</p>
+
 
 ---
 
