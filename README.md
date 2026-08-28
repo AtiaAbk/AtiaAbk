@@ -1,6 +1,8 @@
 ## Hi there 👋 i am Oishi  
 Update Loading..............
-working 
+........
+....
+work proceed
 
 <!--
 **AtiaAbk/AtiaAbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
