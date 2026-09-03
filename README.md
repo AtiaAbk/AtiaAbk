@@ -1,10 +1,6 @@
 ## Hi there 👋 i am Oishi  
 Update Loading..............
 
-........
-
-....
-
 work proceed
 
 <!--
