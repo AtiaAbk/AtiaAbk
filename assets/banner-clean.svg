@@ -186,7 +186,7 @@
     <circle cx="16" cy="13" r="4" fill="#00f0ff">
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="30" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#79c0ff" letter-spacing="0.5">B.SC. ICE • SYSTEMS &amp; SECURITY 🛡️</text>
+    <text x="30" y="17" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="10.5" font-weight="700" fill="#79c0ff" letter-spacing="0.6">B.SC. ICE • SYSTEMS &amp; SECURITY 🛡️</text>
   </g>
 
   <!-- Monogram Box with Cyber Neon Frame -->
@@ -198,45 +198,49 @@
   </g>
 
   <!-- Greeting & Name -->
-  <g transform="translate(190, 82)">
-    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="600" fill="#79c0ff" letter-spacing="1.5">
-      HI THERE, I'M
+  <g transform="translate(190, 80)">
+    <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="600" fill="#79c0ff" letter-spacing="1.8">
+      <tspan fill="#00f0ff" font-weight="700">&gt; </tspan>HI THERE, I'M
     </text>
-    <text x="0" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="url(#textGrad)" letter-spacing="0.5">
+    <text x="0" y="38" font-family="'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="34" font-weight="800" fill="url(#textGrad)" letter-spacing="0.6">
       Atia Sanjida (Oishi)
     </text>
-    <text x="350" y="34" font-size="28">👋</text>
+    <text x="375" y="36" font-size="28">👋</text>
   </g>
 
-  <!-- Dynamic Cycling Roles (Exact Authentic Roles Preserved) -->
+  <!-- Dynamic Cycling Roles (Exact Authentic Roles in Console Monospace) -->
   <g transform="translate(190, 154)">
     <g class="role-1">
-      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">
-        🛡️ <tspan fill="#58a6ff" font-weight="700">Security Researcher</tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">Cybersecurity &amp; Ethical Hacking </tspan>
+      <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#e6edf3">
+        🛡️ <tspan fill="#58a6ff" font-weight="700">Security Researcher</tspan> <tspan fill="#484f58">•</tspan> <tspan fill="#c9d1d9">Cybersecurity &amp; Ethical Hacking</tspan>
       </text>
     </g>
     <g class="role-2">
-      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">
-        💻 <tspan fill="#39d353" font-weight="700">Currently Learning</tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">Systems Engineering  &amp; Computer network</tspan>
+      <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#e6edf3">
+        💻 <tspan fill="#39d353" font-weight="700">Currently Learning</tspan> <tspan fill="#484f58">•</tspan> <tspan fill="#c9d1d9">Systems Engineering &amp; Computer Networks</tspan>
       </text>
     </g>
     <g class="role-3">
-      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">
-        🤖 <tspan fill="#39d353" font-weight="700">Exploring </tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9"> python  &amp; AI/ML</tspan>
+      <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#e6edf3">
+        🤖 <tspan fill="#bc8cff" font-weight="700">Exploring</tspan> <tspan fill="#484f58">•</tspan> <tspan fill="#c9d1d9">Python &amp; AI / ML</tspan>
       </text>
     </g>
     <g class="role-4">
-      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">
-        🎓 <tspan fill="#f0883e" font-weight="700">B.Sc. </tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">Information &amp; Communication Engineering</tspan>
+      <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#e6edf3">
+        🎓 <tspan fill="#f0883e" font-weight="700">B.Sc.</tspan> <tspan fill="#484f58">•</tspan> <tspan fill="#c9d1d9">Information &amp; Communication Engineering</tspan>
       </text>
     </g>
   </g>
 
-  <!-- Tagline Quote -->
+  <!-- Tagline Quote (Console Style Prompt Box) -->
   <g transform="translate(48, 222)">
-    <rect width="904" height="42" rx="10" fill="#070c18" fill-opacity="0.95" stroke="#1f2c42" stroke-width="1"/>
-    <text x="24" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#8b949e">
-      🎓 <tspan fill="#c9d1d9" font-weight="500">"B.Sc.  in Information &amp; Communication Engineering | exploring Systems, Security, and Agentic AI."</tspan>
+    <rect width="904" height="42" rx="10" fill="#060c18" fill-opacity="0.95" stroke="#1f324d" stroke-width="1.2"/>
+    <g transform="translate(16, 10)">
+      <rect width="36" height="22" rx="5" fill="#0c1a2e" stroke="#00c7ff" stroke-width="1"/>
+      <text x="18" y="15" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="700" fill="#00f0ff" text-anchor="middle">&gt;_</text>
+    </g>
+    <text x="66" y="22" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12.5" dominant-baseline="central">
+      <tspan fill="#79c0ff" font-weight="600">"B.Sc. in Information &amp; Communication Engineering</tspan> <tspan fill="#388bfd" font-weight="700"> | </tspan><tspan fill="#c9d1d9" font-weight="500">exploring Systems, Security, and Agentic AI."</tspan>
     </text>
   </g>
 
