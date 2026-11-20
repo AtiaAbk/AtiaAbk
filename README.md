@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Atia Sanjida (Oishi) - GitHub Banner" width="100%"/>
+<img src="assets/banner-clean.svg" alt="Atia Sanjida (Oishi) - GitHub Banner" width="100%"/>
 
 <br/>
 
