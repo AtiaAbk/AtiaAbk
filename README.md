@@ -87,6 +87,16 @@
     </td>
   </tr>
   <tr>
+    <td width="26%" valign="top"><strong>📡 Embedded &amp; Simulation</strong></td>
+    <td width="74%">
+      <img src="https://img.shields.io/badge/CST_Studio-Antenna%20Design-005A9C?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="CST Studio Suite"/>
+      <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+    </td>
+  </tr>
+  <tr>
     <td width="26%" valign="top"><strong>⚙️ Tools &amp; Environment</strong></td>
     <td width="74%">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
