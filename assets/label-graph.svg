@@ -3,7 +3,7 @@
 <g clip-path="url(#card)"><rect width="1280" height="48" fill="url(#bg)"/><rect width="1280" height="48" fill="url(#dots)"/>
 
 <circle cx="30" cy="24" r="5.5" fill="#ff5f57"/><circle cx="50" cy="24" r="5.5" fill="#febc2e"/><circle cx="70" cy="24" r="5.5" fill="#28c840"/>
-<text x="102" y="29.5" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="16" font-weight="700"><tspan fill="#3fb950">atia@ice-station</tspan><tspan fill="#58a6ff">:~$</tspan><tspan fill="#e6edf3"> git graph</tspan><tspan fill="#c4adff"> --contributions --days 30</tspan><tspan fill="#8ec5ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/> _</tspan></text>
+<text x="102" y="29.5" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="16" font-weight="700"><tspan fill="#3fb950">atia@abk_015h1</tspan><tspan fill="#58a6ff">:~$</tspan><tspan fill="#e6edf3"> git graph</tspan><tspan fill="#c4adff"> --contributions --days 30</tspan><tspan fill="#8ec5ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/> _</tspan></text>
 <g transform="translate(1146 14)"><circle cx="8" cy="10" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle><text x="20" y="14.5" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" font-weight="700" letter-spacing="1.5" fill="#3fb950">LIVE</text></g>
 <rect x="0" y="46" width="1280" height="2" fill="#c4adff" opacity=".35"/>
 
