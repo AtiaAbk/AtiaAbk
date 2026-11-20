@@ -2,8 +2,7 @@
 
 <img src="assets/banner-v7.svg" alt="Atia Sanjida (Oishi) - GitHub Banner" width="100%"/>
 
-<br/>
-<br/>
+<br/><br/>
 <a href="https://atiaoishi.pages.dev" target="_blank" title="Portfolio">
   <img src="assets/icons/portfolio.svg" width="36" height="36" alt="Portfolio"/>
 </a>
@@ -32,7 +31,7 @@
   <img src="assets/icons/reddit.svg" width="36" height="36" alt="Reddit"/>
 </a>
 
-<br/><br/>
+<br/>
 
 </div>
 <!--
