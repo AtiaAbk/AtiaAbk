@@ -86,29 +86,26 @@
       <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Academics:</text>
       <text x="155" y="0" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="600" fill="#39d353">B.Sc. in Information &amp; Communication Eng. (ICE)</text>
 
-      <text x="0" y="23" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Core Direction:</text>
-      <text x="155" y="23" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="600" fill="#e6edf3">Systems Engineering &amp; Security Research</text>
+      <text x="0" y="23" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Workstation:</text>
+      <text x="155" y="23" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Linux Workstation (x86_64, Kali Linux &amp; Ubuntu 24.04)</text>
 
-      <text x="0" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Security Study:</text>
-      <text x="155" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Cybersecurity, Ethical Hacking &amp; Vulnerability Labs</text>
+      <text x="0" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Low-Level &amp; OS:</text>
+      <text x="155" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">C, C++ (Memory Internals, POSIX), Bash, Zsh, Tmux</text>
 
-      <text x="0" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">AI &amp; Agentic AI:</text>
-      <text x="155" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#d2a8ff">Learning AI/ML, Agentic Workflows &amp; YOLOv8 Vision</text>
+      <text x="0" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">High-Level Dev:</text>
+      <text x="155" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Python (Automation, Scikit, OpenCV), SQL, Java</text>
 
-      <text x="0" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Engineering Tools:</text>
+      <text x="0" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Engineering Suite:</text>
       <text x="155" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="600" fill="#58a6ff">Unreal Engine 5, MATLAB, AutoCAD, CST Studio Suite</text>
 
-      <text x="0" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Simulation &amp; CAD:</text>
-      <text x="155" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">3D Simulation, Antenna RF Design &amp; CAD Modeling</text>
+      <text x="0" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Security Tooling:</text>
+      <text x="155" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Wireshark, OWASP Top 10 Labs, Nmap, Burp Suite</text>
 
-      <text x="0" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Systems &amp; OS:</text>
-      <text x="155" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Ubuntu, Kali Linux, Fedora, macOS</text>
+      <text x="0" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Version Control:</text>
+      <text x="155" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Git Internals (DAGs, Objects, Plumbing Commands)</text>
 
-      <text x="0" y="161" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Languages:</text>
-      <text x="155" y="161" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Python, C, C++, Bash, SQL, Java</text>
-
-      <text x="0" y="184" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Dev &amp; Docs:</text>
-      <text x="155" y="184" font-family="'JetBrains Mono', monospace" font-size="12.5" fill="#79c0ff">Git Internals (36 ch), Linux Terminal, VS Code</text>
+      <text x="0" y="161" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Telemetry &amp; Code:</text>
+      <text x="155" y="161" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#bc8cff">70+ Repositories • VS Code • Linux CLI Environment</text>
     </g>
 
     <!-- Color Palette / Terminal Dots -->
