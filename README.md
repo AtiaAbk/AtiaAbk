@@ -43,7 +43,7 @@
 ## 👤 About & Engineering Focus
 
 <p align="center">
-  <img src="assets/system-spec-v4.svg" width="100%" alt="System Specifications & Profile"/>
+  <img src="assets/system-spec-v5.svg" width="100%" alt="System Specifications & Profile"/>
 </p>
 
 <p align="center">
