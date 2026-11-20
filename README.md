@@ -25,7 +25,6 @@
 <a href="https://www.reddit.com/user/Funny_Trust8933/">
   <img src="https://img.shields.io/badge/Reddit-Funny__Trust8933-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=AtiaAbk&color=388bfd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/>
 
