@@ -49,11 +49,16 @@
     <td width="26%" valign="top"><strong>🛡️ Cybersecurity &amp; Systems</strong></td>
     <td width="74%">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-      <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="Ethical Hacking"/>
-      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+      <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
+      <img src="https://img.shields.io/badge/Nmap-2563EB?style=flat-square&logo=radar&logoColor=white" alt="Nmap"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+      <img src="https://img.shields.io/badge/Metasploit-1369AC?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+      <img src="https://img.shields.io/badge/PortSwigger_Labs-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="PortSwigger Labs"/>
+      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+      <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
     </td>
   </tr>
   <tr>
