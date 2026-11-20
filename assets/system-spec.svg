@@ -182,35 +182,35 @@
 
     <line x1="0" y1="26" x2="675" y2="26" stroke="#30363d" stroke-width="1"/>
 
-    <!-- Short, Punchy Spec Rows -->
+    <!-- Combined Comprehensive Spec Rows -->
     <g transform="translate(0, 48)">
-      <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Academics    :</text>
-      <text x="145" y="0" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#39d353">B.Sc. in Information &amp; Communication Eng. (ICE)</text>
+      <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Academics   :</text>
+      <text x="135" y="0" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600" fill="#39d353">B.Sc. in Information &amp; Communication Eng. (ICE)</text>
 
-      <text x="0" y="22" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Workstation  :</text>
-      <text x="145" y="22" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#e6edf3">Kali Linux &amp; Ubuntu LTS (x86_64, Kernel 6.8)</text>
+      <text x="0" y="21" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Workstation :</text>
+      <text x="135" y="21" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#e6edf3">Linux Workstation (x86_64, Kali Linux &amp; Ubuntu LTS) • Zsh + Tmux</text>
 
-      <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Shell &amp; Env  :</text>
-      <text x="145" y="44" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#e6edf3">zsh 5.9 + tmux (Multi-pane Workstation Session)</text>
+      <text x="0" y="42" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Core Track  :</text>
+      <text x="135" y="42" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600" fill="#58a6ff">Systems Engineering &amp; Defensive Security Research</text>
 
-      <text x="0" y="66" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Core Track   :</text>
-      <text x="145" y="66" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#58a6ff">Systems Engineering &amp; Defensive Security</text>
+      <text x="0" y="63" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Security Lab:</text>
+      <text x="135" y="63" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#ff7b72">Vulnerability Analysis, Ethical Hacking &amp; OS Internals</text>
 
-      <text x="0" y="88" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Security Lab :</text>
-      <text x="145" y="88" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ff7b72">Vulnerability Analysis • OS Internals • OWASP Labs</text>
+      <text x="0" y="84" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Applied AI  :</text>
+      <text x="135" y="84" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#d2a8ff">Agentic AI Workflows &amp; Real-Time Computer Vision (YOLOv8)</text>
 
-      <text x="0" y="110" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Active AI    :</text>
-      <text x="145" y="110" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#d2a8ff">Agentic AI Workflows • Computer Vision Models</text>
+      <text x="0" y="105" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Engineering :</text>
+      <text x="135" y="105" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#e6edf3">3D Simulation (Unreal Engine 5) &amp; Antenna RF (CST Studio)</text>
 
-      <text x="0" y="132" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Engineering  :</text>
-      <text x="145" y="132" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#e6edf3">3D Simulation (UE5) • Antenna RF Modeling (CST)</text>
+      <text x="0" y="126" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Methodology :</text>
+      <text x="135" y="126" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#f0883e">First Principles — "Dissecting systems from memory layout to logic"</text>
 
-      <text x="0" y="154" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#79c0ff">Rule         :</text>
-      <text x="145" y="154" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c9d1d9">"Understand systems from first principles"</text>
+      <text x="0" y="147" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#79c0ff">Profile Mode:</text>
+      <text x="135" y="147" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600" fill="#7ee787">Independent Systems Engineering Learner &amp; Security Researcher</text>
     </g>
 
     <!-- Color Palette Blocks & Blinking Cursor -->
-    <g transform="translate(0, 235)">
+    <g transform="translate(0, 224)">
       <rect x="0" y="0" width="20" height="11" rx="2.5" fill="#ff5f56"/>
       <rect x="26" y="0" width="20" height="11" rx="2.5" fill="#ffbd2e"/>
       <rect x="52" y="0" width="20" height="11" rx="2.5" fill="#27c93f"/>

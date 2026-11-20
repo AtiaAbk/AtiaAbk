@@ -39,6 +39,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/terminal-bio.svg" width="100%" alt="Linux Terminal Session"/>
+</p>
+
+<p align="center">
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
