@@ -64,6 +64,7 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
       <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
     </td>
   </tr>
@@ -85,12 +86,12 @@
       <img src="https://img.shields.io/badge/Burp_Suite_Professional-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite Professional"/>
       <img src="https://img.shields.io/badge/Metasploit-1369AC?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
       <img src="https://img.shields.io/badge/Acunetix-EC2027?style=flat-square&logo=target&logoColor=white" alt="Acunetix"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
       <img src="https://img.shields.io/badge/AutoCAD-E51000?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD"/>
       <img src="https://img.shields.io/badge/CST_Studio_Suite-005A9C?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="CST Studio Suite"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
