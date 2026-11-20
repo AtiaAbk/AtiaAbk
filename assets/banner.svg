@@ -960,17 +960,18 @@
   <g transform="translate(190, 154)">
     <g class="role-1">
       <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">
-        🛡️ <tspan fill="#58a6ff" font-weight="700">Security Researcher</tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">Cybersecurity &amp; Ethical Hacking</tspan>
+        🛡️ <tspan fill="#58a6ff" font-weight="700">Security Researcher</tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">Cybersecurity &amp; Ethical Hacking </tspan>
       </text>
     </g>
     <g class="role-2">
       <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">
-        🐧 <tspan fill="#bc8cff" font-weight="700">Systems Engineering Learner</tspan>
+       
+        💻 <tspan fill="#39d353" font-weight="700">Currently Learning</tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">Systems Engineering  &amp; Computer network</tspan>
       </text>
     </g>
     <g class="role-3">
       <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">
-        🤖 <tspan fill="#39d353" font-weight="700">Currently Learning</tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">AI/ML &amp; Agentic AI</tspan>
+        🤖 <tspan fill="#39d353" font-weight="700">Exploring </tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9"> python  &amp; AI/ML</tspan>
       </text>
     </g>
     <g class="role-4">
