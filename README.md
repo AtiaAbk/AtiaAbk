@@ -155,36 +155,20 @@
 
 <br/>
 
-<a href="https://atiaoishi.pages.dev" target="_blank" title="Portfolio">
-  <img src="assets/icons/portfolio.svg" width="38" height="38" alt="Portfolio"/>
+<a href="https://github.com/AtiaAbk?tab=followers">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/AtiaAbk" target="_blank" title="GitHub">
-  <img src="assets/icons/github.svg" width="38" height="38" alt="GitHub"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
+  <img src="https://img.shields.io/badge/LinkedIn-Atia%20Sanjida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/atia-sanjida-085947233/" target="_blank" title="LinkedIn">
-  <img src="assets/icons/linkedin.svg" width="38" height="38" alt="LinkedIn"/>
+&nbsp;
+<a href="mailto:atia.abk@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:atia.abk@gmail.com" title="Email">
-  <img src="assets/icons/email.svg" width="38" height="38" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/atia_abk" target="_blank" title="Discord">
-  <img src="assets/icons/discord.svg" width="38" height="38" alt="Discord"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/AtiaAbk" target="_blank" title="Facebook">
-  <img src="assets/icons/facebook.svg" width="38" height="38" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/Funny_Trust8933/" target="_blank" title="Reddit">
-  <img src="assets/icons/reddit.svg" width="38" height="38" alt="Reddit"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/AtiaOishe" target="_blank" title="Twitter / X">
-  <img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter"/>
+&nbsp;
+<a href="https://twitter.com/AtiaOishe">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 
 <br/><br/>
