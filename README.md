@@ -93,62 +93,6 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-## 🌟 Featured Engineering & Research Repositories
-
-<p align="center">
-  <img src="assets/featured-projects.svg" width="100%" alt="Featured Projects Grid"/>
-</p>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐧 <a href="https://github.com/AtiaAbk/Learning-Linux">Learning-Linux</a></h4>
-      <p>A complete Linux manual covering Ubuntu, Kali, and Fedora, terminal commands, FHS filesystem architecture, boot processes, user permissions, and administrative scripting.</p>
-      <img src="https://img.shields.io/badge/Status-Active%20Guide-388bfd?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/badge/Topics-Linux%20•%20Kernel%20•%20FHS-1f883d?style=flat-square" alt="Topics"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/AtiaAbk/SQLi">SQLi &amp; Vulnerability Labs</a></h4>
-      <p>Ethical SQL injection research repository covering injection mechanisms, OWASP Top 10 guidelines, parameterized defenses, and database security practices.</p>
-      <img src="https://img.shields.io/badge/Status-Research%20Lab-f85149?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/badge/Topics-OWASP%20•%20SQLi%20•%20Defense-ff7b72?style=flat-square" alt="Topics"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌳 <a href="https://github.com/AtiaAbk/Git-Learning">Git-Learning</a></h4>
-      <p>A self-contained, 36-section visual mastery guide breaking down Git from first principles: object store (blobs, trees, commits, refs), DAG branching, and data recovery with 50+ SVG diagrams.</p>
-      <img src="https://img.shields.io/badge/Status-Complete%20Manual-2ea043?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/badge/Topics-Git%20Internals%20•%20DAGs-7ee787?style=flat-square" alt="Topics"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/AtiaAbk/smart-home-security-bot-esp32-">smart-home-security-bot-esp32-</a></h4>
-      <p>ESP32 hardware security bot utilizing WiFi Channel State Information (CSI) for through-barrier sensing and real-time Telegram alerts via a non-blocking operating system.</p>
-      <img src="https://img.shields.io/badge/Status-Hardware%20IoT-bc8cff?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/badge/Topics-ESP32%20•%20WiFi%20CSI%20•%20Embedded-d2a8ff?style=flat-square" alt="Topics"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚗 <a href="https://github.com/AtiaAbk/Vehicle-Tracking-System">Vehicle-Tracking-System</a></h4>
-      <p>Real-time vehicle detection, tracking, and traffic flow counting utilizing YOLOv8s object detection and OpenCV video processing.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-388bfd?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/badge/Topics-YOLOv8%20•%20OpenCV%20•%20Vision-79c0ff?style=flat-square" alt="Topics"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗳️ <a href="https://github.com/AtiaAbk/Online-voting-mechine-">Online-voting-mechine-</a></h4>
-      <p>Console-based electronic voting machine simulation written in C demonstrating core systems programming: memory layout, arrays, and control flow.</p>
-      <img src="https://img.shields.io/badge/Status-Academic%20Lab-2ea043?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/badge/Language-C%20Language-00599C?style=flat-square" alt="Language"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%"/>
-</p>
 
 ## 📊 Live GitHub Activity
 
