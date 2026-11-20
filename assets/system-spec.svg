@@ -12,14 +12,18 @@
       <stop offset="100%" stop-color="#39d353"/>
     </linearGradient>
 
-    <pattern id="dotPattern" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.05"/>
+    <!-- Cyber Binary Matrix Pattern (Subtle Ethical Hacker Theme) -->
+    <pattern id="sysBinary" width="340" height="96" patternUnits="userSpaceOnUse">
+      <text x="10" y="20" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#39d353" fill-opacity="0.08" letter-spacing="3">01001001 01000011 01000101 00100000</text>
+      <text x="45" y="44" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#58a6ff" fill-opacity="0.07" letter-spacing="3">01010011 01000101 01000011 01010101</text>
+      <text x="15" y="68" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#39d353" fill-opacity="0.07" letter-spacing="3">01010011 01011001 01010011 01010100</text>
+      <text x="50" y="92" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#bc8cff" fill-opacity="0.06" letter-spacing="3">01001100 01001110 01011000 00100000</text>
     </pattern>
   </defs>
 
   <!-- Background -->
   <rect width="1000" height="360" rx="16" fill="url(#termBg)"/>
-  <rect width="1000" height="360" rx="16" fill="url(#dotPattern)"/>
+  <rect width="1000" height="360" rx="16" fill="url(#sysBinary)"/>
   <rect x="1" y="1" width="998" height="358" rx="15" fill="none" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- Terminal Top Bar -->
