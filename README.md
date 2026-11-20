@@ -4,23 +4,26 @@
 
 <br/>
 
-<a href="https://github.com/AtiaAbk?tab=followers">
-  <img src="https://img.shields.io/github/followers/AtiaAbk?label=Follow%20%40AtiaAbk&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow on GitHub"/>
+<a href="https://atiaoishi.pages.dev">
+  <img src="https://img.shields.io/badge/Portfolio-atiaoishi.pages.dev-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/AtiaAbk">
-  <img src="https://img.shields.io/badge/B.Sc.-Information%20%26%20Communication%20Eng.-1f883d?style=for-the-badge&logo=google-scholar&logoColor=white" alt="B.Sc. in ICE"/>
-</a>
-<a href="https://github.com/AtiaAbk?tab=repositories">
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security-0969da?style=for-the-badge&logo=shield&logoColor=white" alt="Systems & Security Focus"/>
-</a>
-<a href="https://github.com/AtiaAbk?tab=repositories">
-  <img src="https://img.shields.io/badge/Exploring-AI%2FML%20%26%20Agentic%20AI-8957e5?style=for-the-badge&logo=probot&logoColor=white" alt="AI/ML & Agentic AI"/>
-</a>
-<a href="https://github.com/AtiaAbk?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-70+-388bfd?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/GitHub-AtiaAbk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
-  <img src="https://img.shields.io/badge/LinkedIn-Atia%20Sanjida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Atia_Sanjida-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" alt="LinkedIn"/>
+</a>
+<a href="mailto:atia.abk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-atia.abk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://discord.com/users/atia_abk">
+  <img src="https://img.shields.io/badge/Discord-atia__abk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://www.facebook.com/AtiaAbk">
+  <img src="https://img.shields.io/badge/Facebook-AtiaAbk-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.reddit.com/user/Funny_Trust8933/">
+  <img src="https://img.shields.io/badge/Reddit-Funny__Trust8933-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=AtiaAbk&color=388bfd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -147,16 +150,32 @@
 
 <br/>
 
-<a href="https://github.com/AtiaAbk?tab=followers">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+<a href="https://atiaoishi.pages.dev">
+  <img src="https://img.shields.io/badge/Portfolio-atiaoishi.pages.dev-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://github.com/AtiaAbk">
+  <img src="https://img.shields.io/badge/GitHub-AtiaAbk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
-  <img src="https://img.shields.io/badge/LinkedIn-Atia%20Sanjida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Atia_Sanjida-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:atia.abk@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-atia.abk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://discord.com/users/atia_abk">
+  <img src="https://img.shields.io/badge/Discord-atia__abk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/AtiaAbk">
+  <img src="https://img.shields.io/badge/Facebook-AtiaAbk-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://www.reddit.com/user/Funny_Trust8933/">
+  <img src="https://img.shields.io/badge/Reddit-Funny__Trust8933-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
 &nbsp;
 <a href="https://twitter.com/AtiaOishe">
