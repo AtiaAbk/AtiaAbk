@@ -238,7 +238,7 @@
   <g transform="translate(315, 100)">
     <!-- typed command -->
     <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" clip-path="url(#typeClip)">
-      <tspan fill="#3fb950" font-weight="700">atia@ice-station</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#f0f6fc" font-weight="600">fastfetch --profile overview</tspan>
+      <tspan fill="#3fb950" font-weight="700">atia@abk_015h1</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#f0f6fc" font-weight="600">fastfetch --profile overview</tspan>
     </text>
     <line x1="0" y1="30" x2="655" y2="30" stroke="#21262d" stroke-width="1"/>
 
