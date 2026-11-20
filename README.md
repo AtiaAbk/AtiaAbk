@@ -108,12 +108,13 @@
       <sub style="color: #7ee787;">Simulation, CAD &amp; Engineering</sub>
     </td>
     <td width="74%">
-      <img src="https://img.shields.io/badge/Unreal_Engine_5-10141d?style=flat-square&logo=unrealengine&logoColor=ffffff" alt="Unreal Engine 5"/>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-10141d?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Cisco Packet Tracer"/>
+      <img src="https://img.shields.io/badge/CST_Studio_Suite-10141d?style=flat-square&logo=dassaultsystemes&logoColor=005A9C" alt="CST Studio Suite"/>
       <img src="https://img.shields.io/badge/MATLAB-10141d?style=flat-square&logo=mathworks&logoColor=0076A8" alt="MATLAB"/>
       <img src="https://img.shields.io/badge/AutoCAD-10141d?style=flat-square&logo=autodesk&logoColor=E51000" alt="AutoCAD"/>
-      <img src="https://img.shields.io/badge/CST_Studio_Suite-10141d?style=flat-square&logo=dassaultsystemes&logoColor=005A9C" alt="CST Studio Suite"/>
-      <img src="https://img.shields.io/badge/Acunetix-10141d?style=flat-square&logo=target&logoColor=EC2027" alt="Acunetix"/>
+      <img src="https://img.shields.io/badge/Unreal_Engine_5-10141d?style=flat-square&logo=unrealengine&logoColor=ffffff" alt="Unreal Engine 5"/>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Acunetix-10141d?style=flat-square&logo=target&logoColor=EC2027" alt="Acunetix"/>
       <img src="https://img.shields.io/badge/MySQL-10141d?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
       <img src="https://img.shields.io/badge/SQLite-10141d?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite"/>
       <img src="https://img.shields.io/badge/Git-10141d?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
