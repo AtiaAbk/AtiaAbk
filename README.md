@@ -144,34 +144,30 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-## 🤝 Connect
+<p align="center">
+  <img src="assets/connect-header.svg" width="100%" alt="Let's Connect"/>
+</p>
 
-<div align="center">
-
-<p>
-  <strong>Feel free to connect or collaborate on systems, Linux, and development projects!</strong>
+<p align="center">
+  <a href="https://github.com/AtiaAbk?tab=followers" target="_blank">
+    <img src="assets/btn-github.svg" width="235" alt="Follow on GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/atia-sanjida-085947233/" target="_blank">
+    <img src="assets/btn-linkedin.svg" width="235" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:atia.abk@gmail.com">
+    <img src="assets/btn-email.svg" width="235" alt="Email Me"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/AtiaOishe" target="_blank">
+    <img src="assets/btn-twitter.svg" width="235" alt="Twitter / X"/>
+  </a>
 </p>
 
 <br/>
 
-<a href="https://github.com/AtiaAbk?tab=followers">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
-  <img src="https://img.shields.io/badge/LinkedIn-Atia_Sanjida-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:atia.abk@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/AtiaOishe">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-
-<br/><br/>
-
-<img src="assets/footer.svg" alt="Footer Banner" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer Banner"/>
+</p>
