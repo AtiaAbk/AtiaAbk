@@ -122,7 +122,7 @@
 
   <!-- ================= ABOUT TITLE (inside the window) ================= -->
   <g>
-    <text x="24" y="70" font-family="'JetBrains Mono', Consolas, Menlo, monospace" font-size="22" font-weight="800" fill="#3fb9a8" filter="url(#titleGlow)">.~
+    <text x="24" y="70" font-family="'JetBrains Mono', Consolas, Menlo, monospace" font-size="22" font-weight="800" fill="#3fb9a8" filter="url(#titleGlow)">~ .
       <animate attributeName="opacity" values="1;.45;1" dur="2.6s" repeatCount="indefinite"/>
     </text>
     <g transform="translate(48 52)" fill="none" stroke="#7ee7da" stroke-width="1.9" stroke-linecap="round" filter="url(#softGlow)">
