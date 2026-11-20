@@ -26,13 +26,13 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-## 🛡️ Systems Engineering & Security Research Lab
+## 🛡️ Systems & Security — Independent Learning Workbench
 
 <p align="center">
-  <img src="assets/system-spec.svg" width="100%" alt="System Specifications & Engineering Profile"/>
+  <img src="assets/system-spec.svg" width="100%" alt="System Specifications & Learning Profile"/>
 </p>
 
-> **"I believe the best way to build or protect software is to understand how computers work from first principles — from memory layout, network packets, and system calls up to web application vulnerabilities and defensive mitigations."**
+> **"I am a Computer Science student and independent self-learner. Rather than relying solely on high-level theory, I learn by dissecting systems from the ground up — exploring Linux internals, understanding memory and networks, and studying defensive security concepts from first principles."**
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%"/>
@@ -127,7 +127,7 @@
 <div align="center">
 
 <p>
-  <strong>Always open to discussing systems engineering, security research, Linux architecture, and collaborating on interesting technical projects!</strong>
+  <strong>Always open to discussing systems engineering, security concepts, Linux architecture, and collaborating on interesting technical projects!</strong>
 </p>
 
 <br/>
