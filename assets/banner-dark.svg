@@ -90,7 +90,7 @@
   <circle cx="68" cy="20" r="6" fill="#27c93f"/>
 
   <text x="500" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#8b949e" text-anchor="middle">
-    atia@student-workspace: ~/projects (main)
+    atia@sec-lab: ~/systems-and-security (main)
   </text>
 
   <!-- Status Badge -->
@@ -99,7 +99,7 @@
     <circle cx="14" cy="11" r="4.5" fill="#58a6ff">
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="26" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#79c0ff" letter-spacing="0.5">LEARNING &amp; BUILDING 🚀</text>
+    <text x="26" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#79c0ff" letter-spacing="0.5">SYSTEMS &amp; SECURITY 🛡️</text>
   </g>
 
   <!-- Monogram Box -->
@@ -124,16 +124,16 @@
 
   <!-- Roles -->
   <g transform="translate(182, 162)">
-    <text class="role-1" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" font-weight="600" fill="#e6edf3">
-      🐍 <tspan fill="#58a6ff">Python Developer &amp; Student</tspan> — Building utility tools &amp; Streamlit apps
+    <text class="role-1" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#e6edf3">
+      🛡️ <tspan fill="#58a6ff">Security Researcher (Learner)</tspan> — Web security, vulnerability research &amp; labs
     </text>
-    <text class="role-2" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" font-weight="600" fill="#e6edf3">
-      👁️ <tspan fill="#bc8cff">Computer Vision Learner</tspan> — OpenCV &amp; YOLOv8 vehicle detection projects
+    <text class="role-2" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#e6edf3">
+      🐧 <tspan fill="#bc8cff">Systems Engineering Enthusiast</tspan> — Linux internals, kernel concepts &amp; C/C++
     </text>
-    <text class="role-3" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" font-weight="600" fill="#e6edf3">
-      🛡️ <tspan fill="#39d353">Cybersecurity &amp; Linux</tspan> — Practical labs in SQLi, recon &amp; OS internals
+    <text class="role-3" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#e6edf3">
+      🌐 <tspan fill="#39d353">Network &amp; Low-Level Systems</tspan> — Protocol analysis, Bash automation &amp; scripting
     </text>
-    <text class="role-4" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" font-weight="600" fill="#e6edf3">
+    <text class="role-4" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#e6edf3">
       📝 <tspan fill="#f05032">Knowledge Documenter</tspan> — Curating structured Git &amp; Linux visual guides
     </text>
   </g>
@@ -142,7 +142,7 @@
   <g transform="translate(48, 222)">
     <rect width="904" height="42" rx="10" fill="#161b22" fill-opacity="0.75" stroke="#30363d" stroke-width="1"/>
     <text x="24" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#8b949e">
-      🌱 <tspan fill="#c9d1d9" font-weight="500">"Learning by building — turning curiosity, code, and practice into working projects."</tspan>
+      🛡️ <tspan fill="#c9d1d9" font-weight="500">"Exploring system internals, defensive security research, and building low-level understanding from first principles."</tspan>
     </text>
   </g>
 

@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/github/followers/AtiaAbk?label=Follow%20%40AtiaAbk&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow on GitHub"/>
 </a>
 <a href="https://github.com/AtiaAbk?tab=repositories">
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security-1f883d?style=for-the-badge&logo=shield&logoColor=white" alt="Systems & Security Focus"/>
+</a>
+<a href="https://github.com/AtiaAbk?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-70+-388bfd?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
 </a>
 <a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
@@ -31,17 +34,20 @@
   </picture>
 </p>
 
-## 🌱 About Me
+## 🛡️ About Me
 
-Hi! I'm **Atia (Oishi)** — a Computer Science student and passionate self-learner.
+Hi! I'm **Atia (Oishi)** — a Computer Science student, systems engineering enthusiast, and security researcher.
 
-I use GitHub as my personal learning workbench. Rather than just following theory, I learn best by writing scripts, building small utility tools, testing computer vision models, and organizing my study notes into visual guides.
+I use GitHub as my personal engineering workbench and learning lab. While I have built and experimented with Applied Computer Vision (OpenCV, YOLOv8) and machine learning tools, my primary focus and daily passion is centered firmly on **Systems Engineering, Linux internals, and Defensive Security Research**.
 
-- 🎓 **Status:** CS Student focusing on programming fundamentals, data workflows, and security basics.
-- 💻 **Primary Language:** Python — building mini-apps, automation tools, file parsers, and OpenCV experiments.
-- 🛠️ **Foundational Languages:** C & C++ (data structures and academic simulations), Java (object-oriented programming & game logic).
-- 🔍 **Things I Like Building:** Practical tools that solve specific tasks (like counting vehicles with YOLO, parsing image numbers in datasets, or managing tasks with Streamlit).
-- 📚 **Why I Write Guides:** When I study a complex subject (like Git workflows or Linux architecture), I turn my notes into structured, visual references so I remember them and others can learn too.
+I believe the best way to secure or build software is to understand how computers work from first principles — from memory layout, network packets, and system calls up to web application vulnerabilities and defensive mitigations.
+
+- 🎓 **Academic Path:** CS Student building a strong foundation in OS architectures, computer networking, and defensive cybersecurity.
+- 🛡️ **Security Research (Learner):** Active research into web security vulnerabilities (SQLi, XSS, OWASP Top 10), attack surface recon (OSINT), and malware defense principles.
+- 🐧 **Linux & Systems Internals:** Deep-diving into Linux distributions (Ubuntu, Kali, Fedora), system calls, filesystem architecture, process execution, and privilege management.
+- 💻 **Systems Programming & Scripting:** Writing C and C++ for fundamental algorithms, memory concepts, and simulations; using Python and Bash for systems automation, telemetry, and log analysis.
+- 📚 **Visual Systems Documentation:** Author of visual reference guides like the [36-Section Git Mastery Guide](https://github.com/AtiaAbk/Git-Learning) (covering internal object models and DAGs) and the [Multi-Distribution Linux Manual](https://github.com/AtiaAbk/Learning-Linux).
+- 🔬 **Applied Vision & ML:** Practical experience building real-time detection systems with YOLOv8 & OpenCV ([Vehicle-Tracking-System](https://github.com/AtiaAbk/Vehicle-Tracking-System)), maintained as a secondary tool in my engineering toolkit.
 
 <p align="center">
   <picture>
@@ -51,43 +57,49 @@ I use GitHub as my personal learning workbench. Rather than just following theor
   </picture>
 </p>
 
-## 🛠️ Tech Stack & Tools I Use
+## 🛠️ Tech Stack & Systems Arsenal
 
 <table>
   <tr>
-    <td width="28%" valign="top"><strong>💻 Programming Languages</strong></td>
-    <td width="72%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5/CSS3"/>
+    <td width="30%" valign="top"><strong>🛡️ Security &amp; Systems</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+      <img src="https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security"/>
+      <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 IoT"/>
     </td>
   </tr>
   <tr>
-    <td width="28%" valign="top"><strong>👁️ Computer Vision &amp; Libraries</strong></td>
-    <td width="72%">
+    <td width="30%" valign="top"><strong>💻 Core Languages &amp; Scripting</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><strong>⚙️ Infrastructure &amp; Tools</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><strong>🔬 Supporting / Applied Tech</strong></td>
+    <td width="70%">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top"><strong>🐧 Systems, Security &amp; Tools</strong></td>
-    <td width="72%">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
     </td>
   </tr>
 </table>
@@ -100,32 +112,34 @@ I use GitHub as my personal learning workbench. Rather than just following theor
   </picture>
 </p>
 
-## 📂 What I've Built & Explored
+## 📂 Engineering Repositories & Security Labs
 
-Here is a look at what is actually inside my repositories, categorized by what I've coded and learned:
+Here is a look at what is inside my repositories, structured around systems engineering, security research, and developer tooling:
 
-### 👁️ Computer Vision & Image Processing
-- **[Vehicle-Tracking-System](https://github.com/AtiaAbk/Vehicle-Tracking-System)** — Real-time vehicle detection, tracking, and traffic counting using YOLOv8s and OpenCV.
-- **[Missing-image-file-detector](https://github.com/AtiaAbk/Missing-image-file-detector)** — A Python utility script to scan directories and detect missing sequential image numbers in datasets.
-- **[ImageFilterCSV](https://github.com/AtiaAbk/ImageFilterCSV)** — Filter and export image numbers from CSV data based on quality analysis with sequence-aware formatting.
-- **[Computer-Vision-](https://github.com/AtiaAbk/Computer-Vision-)** — Practical code experiments using OpenCV for image transformations, contours, and video processing.
+### 🛡️ Security Research, Labs & Vulnerability Analysis
+- **[SQLi](https://github.com/AtiaAbk/SQLi)** — Ethical SQL Injection research repository covering injection mechanisms, OWASP principles, secure parameterized queries, and defensive database design.
+- **[sql-injection-payload-list](https://github.com/AtiaAbk/sql-injection-payload-list)** — Educational resource detailing SQL injection testing vectors, payload mechanics, and prevention countermeasures.
+- **[XSS---Cross-site-scripting](https://github.com/AtiaAbk/XSS---Cross-site-scripting)** — Practical learning notes covering Cross-Site Scripting attack vectors (Reflected, Stored, DOM) and input sanitization defenses.
+- **[defensive-security](https://github.com/AtiaAbk/defensive-security)** & **[Malware-Bible](https://github.com/AtiaAbk/Malware-Bible)** — Educational study materials on malware defense, reverse engineering principles, and threat mitigation.
+- **[OSINT--Recon](https://github.com/AtiaAbk/OSINT--Recon)** & **[Guillotine-_-operation](https://github.com/AtiaAbk/Guillotine-_-operation)** — Open-source intelligence gathering, asset discovery, and reconnaissance research notes.
 
-### ⚙️ Python & Streamlit Utility Tools
-- **[Queflow-app](https://github.com/AtiaAbk/Queflow-app)** — A lightweight task scheduling application with real-time status tracking built with Python, Streamlit, and SQLite.
-- **[Smart-Task-Manager](https://github.com/AtiaAbk/Smart-Task-Manager)** — Clean Streamlit task management app to add, track, and complete daily tasks with scheduling.
-- **[Multi-Mode-Scientific-Calculator](https://github.com/AtiaAbk/Multi-Mode-Scientific-Calculator)** — Web-based scientific calculator supporting arithmetic, trigonometry, and complex number operations.
-- **[python-file-analyzer](https://github.com/AtiaAbk/python-file-analyzer)** — CLI tool for extracting metadata, line metrics, and structure from CSV, text, and log files.
+### 🐧 Systems Engineering, Linux Architecture & Low-Level
+- **[Learning-Linux](https://github.com/AtiaAbk/Learning-Linux)** — Comprehensive Linux manual detailing system architectures, Ubuntu, Kali, and Fedora setups, filesystem hierarchy, user/group permissions, and administrative scripting.
+- **[Zero-to-Root-Access](https://github.com/AtiaAbk/Zero-to-Root-Access)** — Personal study notes on Linux privilege escalation mechanisms, misconfigurations, and defensive system hardening.
+- **[Network-engineering](https://github.com/AtiaAbk/Network-engineering)** — Practical study notes and terminal cheat sheets on TCP/IP networking, packet inspection, protocols, and network utilities.
+- **[smart-home-security-bot-esp32-](https://github.com/AtiaAbk/smart-home-security-bot-esp32-)** — Embedded physical security monitor utilizing ESP32 WiFi Channel State Information (CSI) sensing and non-blocking real-time OS alert dispatch.
+- **[Online-voting-mechine-](https://github.com/AtiaAbk/Online-voting-mechine-)** — Console-based election simulation in C demonstrating core systems programming: memory layout, arrays, and control flow.
+- **[OFC-data-transmission-](https://github.com/AtiaAbk/OFC-data-transmission-)** — Low-level signal transmission simulation across fiber optic cable and LED light source written in C++.
 
-### 📚 Visual Learning Guides & Study References
-- **[Git-Learning](https://github.com/AtiaAbk/Git-Learning)** — A complete, 36-section visual reference guide for Git and GitHub, covering daily commands, internals, recovery tricks, and 50+ SVG diagrams.
-- **[Learning-Linux](https://github.com/AtiaAbk/Learning-Linux)** — Structured Linux terminal and filesystem guide covering Ubuntu, Kali, and Fedora architectures, package managers, and permissions.
-- **[SQLi](https://github.com/AtiaAbk/SQLi)** — Educational repository documenting SQL injection concepts, OWASP security resources, and secure database practices.
-- **[Network-engineering](https://github.com/AtiaAbk/Network-engineering)** — Personal study notes on network fundamentals, protocols, and terminal networking utilities.
+### ⚙️ Systems Automation & Visual Developer Guides
+- **[Git-Learning](https://github.com/AtiaAbk/Git-Learning)** — 36-section visual mastery guide breaking down Git's internal object store (blobs, trees, commits, refs), plumbing commands, branching DAGs, and recovery strategies with 50+ SVG diagrams.
+- **[python-file-analyzer](https://github.com/AtiaAbk/python-file-analyzer)** — CLI utility for inspecting system logs, structured text, and CSV files for line metrics, encoding, and metadata.
+- **[Queflow-app](https://github.com/AtiaAbk/Queflow-app)** — Task scheduling utility with real-time status tracking using Python, SQLite, and Streamlit.
 
-### 🎮 Academic Foundations & C / Java Projects
-- **[2x12-Spark--Birth-of-36-july](https://github.com/AtiaAbk/2x12-Spark--Birth-of-36-july)** — A 3D Java game project built around the July 2024 student movement.
-- **[Online-voting-mechine-](https://github.com/AtiaAbk/Online-voting-mechine-)** — A portable electronic voting machine simulation written in C demonstrating arrays, control flow, and functions.
-- **[OFC-data-transmission-](https://github.com/AtiaAbk/OFC-data-transmission-)** — Simulation of signal transmission across optical fiber cable and LED light source written in C++.
+### 🔬 Applied Computer Vision & ML (Past Explorations)
+- **[Vehicle-Tracking-System](https://github.com/AtiaAbk/Vehicle-Tracking-System)** — Real-time vehicle detection and multi-lane flow counting using YOLOv8s and OpenCV.
+- **[Missing-image-file-detector](https://github.com/AtiaAbk/Missing-image-file-detector)** — Python utility to detect sequential gaps in image datasets.
+- **[ImageFilterCSV](https://github.com/AtiaAbk/ImageFilterCSV)** — Sequence-aware image filtering from CSV analysis.
 
 <p align="center">
   <picture>
@@ -188,7 +202,7 @@ Here is a look at what is actually inside my repositories, categorized by what I
 <div align="center">
 
 <p>
-  <strong>Always happy to connect, share knowledge, and collaborate on interesting student projects!</strong>
+  <strong>Always open to discussing systems engineering, security research, Linux architecture, and collaborating on interesting technical projects!</strong>
 </p>
 
 <br/>
