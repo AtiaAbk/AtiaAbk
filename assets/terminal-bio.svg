@@ -144,9 +144,9 @@
       <rect x="812" y="109" width="10" height="10" rx="2" fill="url(#barGrad)"/>
     </g>
 
-    <!-- Keep Coding Callout -->
-    <text x="836" y="119" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600" fill="#e6edf3">
-      Keep Coding... 🚀
+    <!-- Keep Learning Callout -->
+    <text x="834" y="119" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600" fill="#e6edf3">
+      Keep Learning... 🚀
     </text>
   </g>
 
