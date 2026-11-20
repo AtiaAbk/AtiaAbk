@@ -100,8 +100,7 @@
   <rect width="1000" height="290" rx="18" fill="url(#cyberGridLight)"/>
   <rect width="1000" height="290" rx="18" fill="url(#cyberBinaryLight)"/>
 
-  <circle cx="150" cy="80" r="100" fill="#0969da" opacity="0.08" filter="url(#softGlowLight)"/>
-  <circle cx="850" cy="200" r="110" fill="#8250df" opacity="0.08" filter="url(#softGlowLight)"/>
+
 
   <rect x="1" y="1" width="998" height="288" rx="17" fill="none" stroke="url(#borderGradLight)" stroke-width="2"/>
 
