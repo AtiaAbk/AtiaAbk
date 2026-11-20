@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img">
-  <title>Atia Sanjida - System Specifications &amp; Learning Profile</title>
+  <title>Atia Sanjida - System Specifications &amp; Profile</title>
   <defs>
     <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a0d14"/>
@@ -11,20 +11,6 @@
       <stop offset="0%" stop-color="#58a6ff"/>
       <stop offset="100%" stop-color="#39d353"/>
     </linearGradient>
-
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="50%" stop-color="#bc8cff"/>
-      <stop offset="100%" stop-color="#39d353"/>
-    </linearGradient>
-
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
 
     <pattern id="dotPattern" width="20" height="20" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.05"/>
@@ -47,7 +33,7 @@
   <circle cx="66" cy="21" r="6" fill="#27c93f"/>
 
   <text x="500" y="26" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="600" fill="#8b949e" text-anchor="middle">
-    atia@workbench: ~ (sys-fetch -v 2.0)
+    atia@station: ~ (fastfetch)
   </text>
 
   <!-- Left Column: Graphic Monogram & Sys Badge -->
@@ -70,52 +56,52 @@
       ATIA SANJIDA (OISHI)
     </text>
     <text x="130" y="196" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#79c0ff" text-anchor="middle">
-      [INDEPENDENT LEARNER]
+      CS STUDENT &amp; DEVELOPER
     </text>
 
     <!-- Status pill -->
-    <rect x="45" y="215" width="170" height="26" rx="13" fill="#161b22" stroke="#39d353" stroke-width="1"/>
-    <circle cx="62" cy="228" r="4" fill="#39d353">
+    <rect x="52" y="215" width="156" height="26" rx="13" fill="#161b22" stroke="#39d353" stroke-width="1"/>
+    <circle cx="68" cy="228" r="4" fill="#39d353">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="74" y="232" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" fill="#39d353">
-      LEARNING &amp; BUILDING
+    <text x="80" y="232" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" fill="#39d353">
+      ACTIVE ON GITHUB
     </text>
   </g>
 
-  <!-- Right Column: System Specification / Neofetch Data -->
+  <!-- Right Column: System Specification / Fastfetch Data -->
   <g transform="translate(330, 72)">
     <!-- Command Prompt -->
     <text x="0" y="16" font-family="'JetBrains Mono', monospace" font-size="14.5" font-weight="700" fill="#39d353">$</text>
-    <text x="18" y="16" font-family="'JetBrains Mono', monospace" font-size="14.5" font-weight="600" fill="#e6edf3">neofetch --target self-learning</text>
+    <text x="18" y="16" font-family="'JetBrains Mono', monospace" font-size="14.5" font-weight="600" fill="#e6edf3">fastfetch --profile overview</text>
 
     <line x1="0" y1="28" x2="630" y2="28" stroke="#30363d" stroke-width="1"/>
 
-    <!-- Neofetch rows -->
+    <!-- Neofetch rows with clean spacing -->
     <g transform="translate(0, 52)">
-      <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Identity:</text>
-      <text x="130" y="0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">CS Student &amp; Independent Self-Learner</text>
+      <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Education:</text>
+      <text x="140" y="0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">Computer Science Undergrad</text>
 
-      <text x="0" y="26" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Focus Area:</text>
-      <text x="130" y="26" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#39d353">System Security &amp; Linux Internals</text>
+      <text x="0" y="26" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Focus Areas:</text>
+      <text x="140" y="26" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#39d353">Operating Systems, Linux &amp; Web Security</text>
 
       <text x="0" y="52" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">OS &amp; Distros:</text>
-      <text x="130" y="52" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">Ubuntu, Kali Linux, Fedora, macOS</text>
+      <text x="140" y="52" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">Ubuntu, Kali Linux, Fedora, macOS</text>
 
-      <text x="0" y="78" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Low-Level:</text>
-      <text x="130" y="78" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">C, C++ (Memory, Control Flow, Signal Sim), Bash</text>
+      <text x="0" y="78" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Languages:</text>
+      <text x="140" y="78" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">Python, C, C++, Bash, SQL, Java</text>
 
-      <text x="0" y="104" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Scripting:</text>
-      <text x="130" y="104" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">Python (CLI Analyzers, Telemetry, Streamlit), SQL</text>
+      <text x="0" y="104" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Tools &amp; DB:</text>
+      <text x="140" y="104" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">Git, VS Code, Linux Terminal, SQLite, MySQL</text>
 
       <text x="0" y="130" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Security Study:</text>
-      <text x="130" y="130" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">OWASP Top 10, SQLi Labs, XSS Defense, OSINT Recon</text>
+      <text x="140" y="130" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3">OWASP Top 10, SQLi Labs, XSS Defense, OSINT</text>
 
-      <text x="0" y="156" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Explorations:</text>
-      <text x="130" y="156" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#8b949e">Applied Computer Vision (YOLOv8 &amp; OpenCV Experiments)</text>
+      <text x="0" y="156" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Other Projects:</text>
+      <text x="140" y="156" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#8b949e">Computer Vision (YOLOv8s, OpenCV), ESP32 IoT</text>
 
-      <text x="0" y="182" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Approach:</text>
-      <text x="130" y="182" font-family="'JetBrains Mono', monospace" font-size="13" font-style="italic" fill="#d2a8ff">"Dissecting systems from first principles — one layer at a time."</text>
+      <text x="0" y="182" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#79c0ff">Documentation:</text>
+      <text x="140" y="182" font-family="'JetBrains Mono', monospace" font-size="13" fill="#d2a8ff">Git Internals (36 ch) &amp; Linux Architecture Guides</text>
     </g>
 
     <!-- Color Palette / Terminal Dots -->

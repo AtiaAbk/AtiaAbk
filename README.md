@@ -26,22 +26,22 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-## 🛡️ Systems & Security — Independent Learning Workbench
+## 👤 About & Focus
 
 <p align="center">
-  <img src="assets/system-spec.svg" width="100%" alt="System Specifications & Learning Profile"/>
+  <img src="assets/system-spec.svg" width="100%" alt="System Specifications & Profile"/>
 </p>
 
-> **"I am a Computer Science student and independent self-learner. Rather than relying solely on high-level theory, I learn by dissecting systems from the ground up — exploring Linux internals, understanding memory and networks, and studying defensive security concepts from first principles."**
+> **"Computer Science student working with Python, Linux, and system security fundamentals. I focus on building practical tools, studying operating system internals, and understanding how software behaves under the hood."**
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-## 🛠️ Technical Arsenal & Core Stack
+## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="assets/tech-matrix.svg" width="100%" alt="Technical Arsenal Matrix"/>
+  <img src="assets/tech-matrix.svg" width="100%" alt="Technical Skills Matrix"/>
 </p>
 
 <table width="100%">
@@ -52,23 +52,23 @@
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
       <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
-      <img src="https://img.shields.io/badge/Network_Security-0052CC?style=flat-square&logo=wireshark&logoColor=white" alt="Network Security"/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
       <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 IoT"/>
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="top"><strong>💻 Core Languages</strong></td>
+    <td width="26%" valign="top"><strong>💻 Programming Languages</strong></td>
     <td width="74%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
       <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="top"><strong>⚙️ Tools &amp; Infrastructure</strong></td>
+    <td width="26%" valign="top"><strong>⚙️ Tools &amp; Environment</strong></td>
     <td width="74%">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -78,7 +78,7 @@
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="top"><strong>🔬 Applied / Explorations</strong></td>
+    <td width="26%" valign="top"><strong>🔬 Applied Technologies</strong></td>
     <td width="74%">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8"/>
@@ -93,11 +93,10 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-
 ## 📊 Live GitHub Activity
 
 <p align="center">
-  <em>These stats update automatically with real-time profile activity and code contributions.</em>
+  <em>Live activity and metrics automatically updated from GitHub contributions.</em>
 </p>
 
 <div align="center">
@@ -122,12 +121,12 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 <p>
-  <strong>Always open to discussing systems engineering, security concepts, Linux architecture, and collaborating on interesting technical projects!</strong>
+  <strong>Feel free to connect or collaborate on systems, Linux, and development projects!</strong>
 </p>
 
 <br/>
