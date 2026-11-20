@@ -4,26 +4,32 @@
 
 <br/>
 
-<a href="https://atiaoishi.pages.dev">
- 
+<a href="https://atiaoishi.pages.dev" target="_blank" title="Portfolio">
+  <img src="assets/icons/portfolio.svg" width="36" height="36" alt="Portfolio"/>
 </a>
-<a href="https://github.com/AtiaAbk">
- 
+&nbsp;&nbsp;
+<a href="https://github.com/AtiaAbk" target="_blank" title="GitHub">
+  <img src="assets/icons/github.svg" width="36" height="36" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
-  <img src="https://img.shields.io/badge/LinkedIn-Atia_Sanjida-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" alt="LinkedIn"/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/atia-sanjida-085947233/" target="_blank" title="LinkedIn">
+  <img src="assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
-<a href="mailto:atia.abk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-atia.abk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+&nbsp;&nbsp;
+<a href="mailto:atia.abk@gmail.com" title="Email">
+  <img src="assets/icons/email.svg" width="36" height="36" alt="Email"/>
 </a>
-<a href="https://discord.com/users/atia_abk">
-  <img src="https://img.shields.io/badge/Discord-atia__abk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/atia_abk" target="_blank" title="Discord">
+  <img src="assets/icons/discord.svg" width="36" height="36" alt="Discord"/>
 </a>
-<a href="https://www.facebook.com/AtiaAbk">
-  <img src="https://img.shields.io/badge/Facebook-AtiaAbk-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/AtiaAbk" target="_blank" title="Facebook">
+  <img src="assets/icons/facebook.svg" width="36" height="36" alt="Facebook"/>
 </a>
-<a href="https://www.reddit.com/user/Funny_Trust8933/">
-  <img src="https://img.shields.io/badge/Reddit-Funny__Trust8933-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Funny_Trust8933/" target="_blank" title="Reddit">
+  <img src="assets/icons/reddit.svg" width="36" height="36" alt="Reddit"/>
 </a>
 
 <br/>
@@ -149,36 +155,36 @@
 
 <br/>
 
-<a href="https://atiaoishi.pages.dev">
-  <img src="https://img.shields.io/badge/Portfolio-atiaoishi.pages.dev-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio"/>
+<a href="https://atiaoishi.pages.dev" target="_blank" title="Portfolio">
+  <img src="assets/icons/portfolio.svg" width="38" height="38" alt="Portfolio"/>
 </a>
-&nbsp;
-<a href="https://github.com/AtiaAbk">
-  <img src="https://img.shields.io/badge/GitHub-AtiaAbk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+&nbsp;&nbsp;
+<a href="https://github.com/AtiaAbk" target="_blank" title="GitHub">
+  <img src="assets/icons/github.svg" width="38" height="38" alt="GitHub"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
-  <img src="https://img.shields.io/badge/LinkedIn-Atia_Sanjida-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" alt="LinkedIn"/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/atia-sanjida-085947233/" target="_blank" title="LinkedIn">
+  <img src="assets/icons/linkedin.svg" width="38" height="38" alt="LinkedIn"/>
 </a>
-&nbsp;
-<a href="mailto:atia.abk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-atia.abk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+&nbsp;&nbsp;
+<a href="mailto:atia.abk@gmail.com" title="Email">
+  <img src="assets/icons/email.svg" width="38" height="38" alt="Email"/>
 </a>
-&nbsp;
-<a href="https://discord.com/users/atia_abk">
-  <img src="https://img.shields.io/badge/Discord-atia__abk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/atia_abk" target="_blank" title="Discord">
+  <img src="assets/icons/discord.svg" width="38" height="38" alt="Discord"/>
 </a>
-&nbsp;
-<a href="https://www.facebook.com/AtiaAbk">
-  <img src="https://img.shields.io/badge/Facebook-AtiaAbk-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/AtiaAbk" target="_blank" title="Facebook">
+  <img src="assets/icons/facebook.svg" width="38" height="38" alt="Facebook"/>
 </a>
-&nbsp;
-<a href="https://www.reddit.com/user/Funny_Trust8933/">
-  <img src="https://img.shields.io/badge/Reddit-Funny__Trust8933-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Funny_Trust8933/" target="_blank" title="Reddit">
+  <img src="assets/icons/reddit.svg" width="38" height="38" alt="Reddit"/>
 </a>
-&nbsp;
-<a href="https://twitter.com/AtiaOishe">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+&nbsp;&nbsp;
+<a href="https://twitter.com/AtiaOishe" target="_blank" title="Twitter / X">
+  <img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter"/>
 </a>
 
 <br/><br/>
