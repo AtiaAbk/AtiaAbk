@@ -73,20 +73,19 @@
 
   <!-- cycling roles (same fade/slide animation as before) -->
   <g class="mono" font-size="24" font-weight="600" transform="translate(76 290)">
-     <g class="r4"><text fill="#ff9a5c">B.Sc.<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Information &amp; Communication Engineering</tspan></text></g>
-    <g class="r1"><circle cx="-0" cy="-8" r="0"/><text fill="#5b8cff">Security Researcher<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Cybersecurity &amp; Ethical Hacking</tspan></text></g>
-    <g class="r2"><text fill="#3fb9a8">Currently Learning<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Systems Engineering &amp; Computer Networks</tspan></text></g>
-    <g class="r3"><text fill="#a97cff">Exploring<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Python &amp; AI / ML</tspan></text></g>
-   
+    <g class="r1"><circle cx="-0" cy="-8" r="0"/><text fill="#ff9a5c">B.Sc.<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Information &amp; Communication Engineering</tspan></text></g>
+    <g class="r2"><text fill="#5b8cff">Security Researcher<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Cybersecurity &amp; Ethical Hacking</tspan></text></g>
+    <g class="r3"><text fill="#3fb9a8">Currently Learning<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Systems Engineering &amp; Computer Networks</tspan></text></g>
+    <g class="r4"><text fill="#a97cff">Exploring<tspan fill="#5b6478" dx="12">•</tspan><tspan fill="#e6edf3" dx="12">Python &amp; AI / ML</tspan></text></g>
   </g>
 
   <!-- role dots with soft light -->
   <g transform="translate(76 324)">
     <g fill="#232a3d"><circle cx="5" cy="2" r="4"/><circle cx="25" cy="2" r="4"/><circle cx="45" cy="2" r="4"/><circle cx="65" cy="2" r="4"/></g>
-    <g class="p1"><circle cx="5" cy="2" r="9" fill="#5b8cff" opacity=".55" filter="url(#halo)"/><circle cx="5" cy="2" r="4" fill="#5b8cff"/></g>
-    <g class="p2"><circle cx="25" cy="2" r="9" fill="#3fb9a8" opacity=".55" filter="url(#halo)"/><circle cx="25" cy="2" r="4" fill="#3fb9a8"/></g>
-    <g class="p3"><circle cx="45" cy="2" r="9" fill="#a97cff" opacity=".55" filter="url(#halo)"/><circle cx="45" cy="2" r="4" fill="#a97cff"/></g>
-    <g class="p4"><circle cx="65" cy="2" r="9" fill="#ff9a5c" opacity=".55" filter="url(#halo)"/><circle cx="65" cy="2" r="4" fill="#ff9a5c"/></g>
+    <g class="p1"><circle cx="5" cy="2" r="9" fill="#ff9a5c" opacity=".55" filter="url(#halo)"/><circle cx="5" cy="2" r="4" fill="#ff9a5c"/></g>
+    <g class="p2"><circle cx="25" cy="2" r="9" fill="#5b8cff" opacity=".55" filter="url(#halo)"/><circle cx="25" cy="2" r="4" fill="#5b8cff"/></g>
+    <g class="p3"><circle cx="45" cy="2" r="9" fill="#3fb9a8" opacity=".55" filter="url(#halo)"/><circle cx="45" cy="2" r="4" fill="#3fb9a8"/></g>
+    <g class="p4"><circle cx="65" cy="2" r="9" fill="#a97cff" opacity=".55" filter="url(#halo)"/><circle cx="65" cy="2" r="4" fill="#a97cff"/></g>
   </g>
 
   <!-- tag chips -->
