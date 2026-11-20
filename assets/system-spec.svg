@@ -95,11 +95,11 @@
       <text x="0" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">AI &amp; Agentic AI:</text>
       <text x="155" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#d2a8ff">Learning AI/ML, Agentic Workflows &amp; YOLOv8 Vision</text>
 
-      <text x="0" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Embedded &amp; RF:</text>
-      <text x="155" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="600" fill="#58a6ff">CST Studio (Antenna), Arduino, Raspberry Pi, ESP32</text>
+      <text x="0" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Engineering Tools:</text>
+      <text x="155" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="600" fill="#58a6ff">Unreal Engine 5, MATLAB, AutoCAD, CST Studio Suite</text>
 
-      <text x="0" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Simulation &amp; 3D:</text>
-      <text x="155" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Unreal Engine 3D Environment &amp; Game Simulation</text>
+      <text x="0" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Simulation &amp; CAD:</text>
+      <text x="155" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">3D Simulation, Antenna RF Design &amp; CAD Modeling</text>
 
       <text x="0" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Systems &amp; OS:</text>
       <text x="155" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Ubuntu, Kali Linux, Fedora, macOS</text>

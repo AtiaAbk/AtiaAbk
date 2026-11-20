@@ -109,10 +109,10 @@
       </text>
     </g>
 
-    <!-- Output Row 4: Tools & RF -->
+    <!-- Output Row 4: Tools & Engineering -->
     <g class="t-line t-l5">
       <text x="0" y="159" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500">
-        <tspan fill="#58a6ff" font-weight="700">[+] Toolset    :</tspan> <tspan fill="#c9d1d9">Linux Architecture • C/C++ • Python • CST Studio (Antenna) • Unreal Engine • Arduino/RPi</tspan>
+        <tspan fill="#58a6ff" font-weight="700">[+] Toolset    :</tspan> <tspan fill="#c9d1d9">Linux • C/C++ • Python • Unreal Engine 5 • MATLAB • AutoCAD • CST Studio</tspan>
       </text>
     </g>
 

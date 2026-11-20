@@ -42,7 +42,7 @@
     <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• SQL Injection (SQLi) Labs</text>
     <text x="24" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• XSS Vectors &amp; Defenses</text>
     <text x="24" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• OSINT &amp; Recon Workflows</text>
-    <text x="24" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• ESP32 WiFi CSI Hardware</text>
+    <text x="24" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Wireshark Network Analysis</text>
 
     <rect x="24" y="218" width="205" height="22" rx="11" fill="#21262d" stroke="#f85149" stroke-width="0.8"/>
     <text x="126" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#ff7b72" text-anchor="middle">DEFENSIVE &amp; ETHICAL</text>
@@ -56,17 +56,17 @@
     <rect x="271" y="24" width="38" height="38" rx="10" fill="url(#blueGrad)"/>
     <text x="290" y="49" font-size="20" text-anchor="middle">🐧</text>
 
-    <text x="317" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Systems &amp; Embedded</text>
-    <text x="317" y="58" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="500" fill="#79c0ff">LINUX &amp; HARDWARE</text>
+    <text x="317" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Systems &amp; Linux</text>
+    <text x="317" y="58" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="500" fill="#79c0ff">OS &amp; KERNEL INTERNALS</text>
 
     <text x="271" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Linux FHS &amp; Permissions</text>
     <text x="271" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Ubuntu, Kali &amp; Fedora</text>
     <text x="271" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• C &amp; C++ Systems Foundations</text>
-    <text x="271" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Arduino &amp; Raspberry Pi IoT</text>
+    <text x="271" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Process Memory &amp; System Calls</text>
     <text x="271" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Network Protocols &amp; Sockets</text>
 
     <rect x="271" y="218" width="205" height="22" rx="11" fill="#21262d" stroke="#388bfd" stroke-width="0.8"/>
-    <text x="373" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#79c0ff" text-anchor="middle">SYSTEMS &amp; EMBEDDED</text>
+    <text x="373" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#79c0ff" text-anchor="middle">SYSTEMS &amp; LINUX</text>
   </g>
 
   <!-- Card 3: Simulation & Tools -->
@@ -75,16 +75,16 @@
     <rect x="504" y="10" width="233" height="245" rx="16" fill="url(#cardBg)" stroke="#2ea043" stroke-opacity="0.8" stroke-width="1.5"/>
     
     <rect x="518" y="24" width="38" height="38" rx="10" fill="url(#greenGrad)"/>
-    <text x="537" y="49" font-size="20" text-anchor="middle">📡</text>
+    <text x="537" y="49" font-size="20" text-anchor="middle">⚙️</text>
 
-    <text x="564" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Simulation &amp; Tools</text>
-    <text x="564" y="58" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="500" fill="#7ee787">RF, 3D &amp; AUTOMATION</text>
+    <text x="564" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Engineering &amp; Tools</text>
+    <text x="564" y="58" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="500" fill="#7ee787">3D, SIMULATION &amp; CAD</text>
 
-    <text x="518" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• CST Studio (Antenna Design)</text>
-    <text x="518" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Unreal Engine 3D Simulation</text>
-    <text x="518" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Python Automation &amp; CLI</text>
-    <text x="518" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Bash Shell Scripting</text>
-    <text x="518" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Git DAGs &amp; SQLite Databases</text>
+    <text x="518" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Unreal Engine 5 Simulation</text>
+    <text x="518" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• MATLAB Engineering Compute</text>
+    <text x="518" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• AutoCAD Technical Design</text>
+    <text x="518" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• CST Studio Suite (Antenna)</text>
+    <text x="518" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Git Internals &amp; SQLite</text>
 
     <rect x="518" y="218" width="205" height="22" rx="11" fill="#21262d" stroke="#2ea043" stroke-width="0.8"/>
     <text x="620" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#7ee787" text-anchor="middle">SIMULATION &amp; DEV</text>

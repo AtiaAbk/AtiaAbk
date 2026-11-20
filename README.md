@@ -62,7 +62,6 @@
       <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="Ethical Hacking"/>
       <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-      <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 IoT"/>
     </td>
   </tr>
   <tr>
@@ -89,23 +88,17 @@
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="top"><strong>📡 Embedded &amp; Simulation</strong></td>
-    <td width="74%">
-      <img src="https://img.shields.io/badge/CST_Studio-Antenna%20Design-005A9C?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="CST Studio Suite"/>
-      <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-    </td>
-  </tr>
-  <tr>
     <td width="26%" valign="top"><strong>⚙️ Tools &amp; Environment</strong></td>
     <td width="74%">
+      <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
+      <img src="https://img.shields.io/badge/AutoCAD-E51000?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+      <img src="https://img.shields.io/badge/CST_Studio_Suite-005A9C?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="CST Studio Suite"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnubash&logoColor=white" alt="Terminal"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
     </td>
   </tr>
 </table>
