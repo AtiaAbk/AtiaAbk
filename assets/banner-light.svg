@@ -99,7 +99,7 @@
     <!-- Roles & Technical Path -->
   <g transform="translate(182, 154)">
     <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#1f2328">
-      🛡️ <tspan fill="#0969da" font-weight="700">Security Researcher (Learner)</tspan> &amp; <tspan fill="#1a7f37" font-weight="700">Systems Engineering Aspirant</tspan>
+      🛡️ <tspan fill="#0969da" font-weight="700">System Security Researcher</tspan> &amp; <tspan fill="#1a7f37" font-weight="700">Systems Learner</tspan>
     </text>
     <text x="0" y="26" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13.5" font-weight="500" fill="#1f2328">
       🐧 <tspan fill="#8250df">Linux Internals</tspan> <tspan fill="#57606a">•</tspan> <tspan fill="#0969da">Vulnerability Labs (SQLi, XSS)</tspan> <tspan fill="#57606a">•</tspan> <tspan fill="#1f2328">C/C++ &amp; Python Scripting</tspan>

@@ -94,7 +94,7 @@
     <!-- Neofetch rows -->
     <g transform="translate(0, 52)">
       <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Identity:</text>
-      <text x="130" y="0" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#e6edf3">CS Student &amp; Aspiring Systems Engineer</text>
+      <text x="130" y="0" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#e6edf3">CS Student &amp; Systems Security Researcher</text>
 
       <text x="0" y="26" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Core Focus:</text>
       <text x="130" y="26" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="600" fill="#39d353">Defensive Security Research &amp; Linux Internals</text>
