@@ -29,7 +29,6 @@
 
   <!-- Card 1: Security & Systems -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="3.5s" repeatCount="indefinite"/>
     <rect x="10" y="10" width="233" height="245" rx="16" fill="url(#cardBg)" stroke="#f85149" stroke-opacity="0.8" stroke-width="1.5"/>
     
     <rect x="24" y="24" width="38" height="38" rx="10" fill="url(#redGrad)"/>
@@ -50,7 +49,6 @@
 
   <!-- Card 2: Linux & Systems -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4.0s" repeatCount="indefinite"/>
     <rect x="257" y="10" width="233" height="245" rx="16" fill="url(#cardBg)" stroke="#388bfd" stroke-opacity="0.8" stroke-width="1.5"/>
     
     <rect x="271" y="24" width="38" height="38" rx="10" fill="url(#blueGrad)"/>
@@ -71,7 +69,6 @@
 
   <!-- Card 3: Simulation & Tools -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="3.8s" repeatCount="indefinite"/>
     <rect x="504" y="10" width="233" height="245" rx="16" fill="url(#cardBg)" stroke="#2ea043" stroke-opacity="0.8" stroke-width="1.5"/>
     
     <rect x="518" y="24" width="38" height="38" rx="10" fill="url(#greenGrad)"/>
@@ -92,7 +89,6 @@
 
   <!-- Card 4: AI, ML & Agentic AI -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4.2s" repeatCount="indefinite"/>
     <rect x="751" y="10" width="233" height="245" rx="16" fill="url(#cardBg)" stroke="#8957e5" stroke-opacity="0.8" stroke-width="1.5"/>
     
     <rect x="765" y="24" width="38" height="38" rx="10" fill="url(#purpleGrad)"/>
