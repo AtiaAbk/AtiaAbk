@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img">
+  <title>Atia Sanjida - System Specifications & Engineering Profile</title>
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="50%" stop-color="#0e1526"/>
+      <stop offset="100%" stop-color="#140f26"/>
+    </linearGradient>
+    
+    <linearGradient id="cyanBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#39d353"/>
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#39d353"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="dotPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="360" rx="16" fill="url(#termBg)"/>
+  <rect width="1000" height="360" rx="16" fill="url(#dotPattern)"/>
+  <rect x="1" y="1" width="998" height="358" rx="15" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Terminal Top Bar -->
+  <rect x="1" y="1" width="998" height="42" rx="15" fill="#161b22" fill-opacity="0.95"/>
+  <rect x="1" y="26" width="998" height="16" fill="#161b22" fill-opacity="0.95"/>
+  <line x1="1" y1="42" x2="999" y2="42" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Window controls -->
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="21" r="6" fill="#27c93f"/>
+
+  <text x="500" y="26" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="600" fill="#8b949e" text-anchor="middle">
+    atia@sec-station: ~ (sys-fetch -v 2.0)
+  </text>
+
+  <!-- Left Column: Graphic Monogram & Sys Badge -->
+  <g transform="translate(40, 68)">
+    <rect width="260" height="260" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+    
+    <!-- Radar / Shield graphic -->
+    <circle cx="130" cy="95" r="55" fill="#161b22" stroke="url(#cyanBlue)" stroke-width="2"/>
+    <circle cx="130" cy="95" r="38" fill="none" stroke="#58a6ff" stroke-dasharray="3,3" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0 130 95" to="360 130 95" dur="15s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="130" cy="95" r="22" fill="#0d1117" stroke="#39d353" stroke-width="1.5"/>
+    
+    <!-- Shield Icon inside -->
+    <path d="M130 80 L142 85 V97 C142 105 130 110 130 110 C130 110 118 105 118 97 V85 Z" fill="#58a6ff" fill-opacity="0.3" stroke="#58a6ff" stroke-width="1.8"/>
+    <polyline points="125,95 129,99 136,91" fill="none" stroke="#39d353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- ID Tag -->
+    <text x="130" y="175" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="middle">
+      ATIA SANJIDA (OISHI)
+    </text>
+    <text x="130" y="196" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#79c0ff" text-anchor="middle">
+      [SYS_RESEARCHER_ID: #0859]
+    </text>
+
+    <!-- Status pill -->
+    <rect x="45" y="215" width="170" height="26" rx="13" fill="#161b22" stroke="#39d353" stroke-width="1"/>
+    <circle cx="62" cy="228" r="4" fill="#39d353">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="74" y="232" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#39d353">
+      ACTIVE RESEARCHER
+    </text>
+  </g>
+
+  <!-- Right Column: System Specification / Neofetch Data -->
+  <g transform="translate(330, 72)">
+    <!-- Command Prompt -->
+    <text x="0" y="16" font-family="'JetBrains Mono', monospace" font-size="14.5" font-weight="700" fill="#39d353">$</text>
+    <text x="18" y="16" font-family="'JetBrains Mono', monospace" font-size="14.5" font-weight="600" fill="#e6edf3">neofetch --target systems-security</text>
+
+    <line x1="0" y1="28" x2="630" y2="28" stroke="#30363d" stroke-width="1"/>
+
+    <!-- Neofetch rows -->
+    <g transform="translate(0, 52)">
+      <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Identity:</text>
+      <text x="130" y="0" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#e6edf3">CS Student &amp; Aspiring Systems Engineer</text>
+
+      <text x="0" y="26" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Core Focus:</text>
+      <text x="130" y="26" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="600" fill="#39d353">Defensive Security Research &amp; Linux Internals</text>
+
+      <text x="0" y="52" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">OS &amp; Distros:</text>
+      <text x="130" y="52" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#e6edf3">Ubuntu, Kali Linux, Fedora, macOS</text>
+
+      <text x="0" y="78" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Low-Level:</text>
+      <text x="130" y="78" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#e6edf3">C, C++ (Memory, Control Flow, Signal Sim), Bash</text>
+
+      <text x="0" y="104" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Automation:</text>
+      <text x="130" y="104" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#e6edf3">Python (CLI Analyzers, Telemetry, Streamlit), SQL</text>
+
+      <text x="0" y="130" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Security Labs:</text>
+      <text x="130" y="130" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#e6edf3">OWASP Top 10, SQLi, XSS, OSINT Recon, ESP32 CSI</text>
+
+      <text x="0" y="156" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Other Work:</text>
+      <text x="130" y="156" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="500" fill="#8b949e">Applied Computer Vision (YOLOv8 &amp; OpenCV Experiments)</text>
+
+      <text x="0" y="182" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#79c0ff">Engineering Rule:</text>
+      <text x="130" y="182" font-family="'JetBrains Mono', monospace" font-size="13" font-style="italic" fill="#d2a8ff">"Dissect systems from first principles — understanding every layer."</text>
+    </g>
+
+    <!-- Color Palette / Terminal Dots -->
+    <g transform="translate(0, 246)">
+      <rect x="0" y="0" width="22" height="12" rx="3" fill="#ff5f56"/>
+      <rect x="28" y="0" width="22" height="12" rx="3" fill="#ffbd2e"/>
+      <rect x="56" y="0" width="22" height="12" rx="3" fill="#27c93f"/>
+      <rect x="84" y="0" width="22" height="12" rx="3" fill="#58a6ff"/>
+      <rect x="112" y="0" width="22" height="12" rx="3" fill="#bc8cff"/>
+      <rect x="140" y="0" width="22" height="12" rx="3" fill="#39d353"/>
+      <rect x="168" y="0" width="22" height="12" rx="3" fill="#e6edf3"/>
+      
+      <!-- Blinking cursor -->
+      <rect x="202" y="-2" width="9" height="16" fill="#58a6ff">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
