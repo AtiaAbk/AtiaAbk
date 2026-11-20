@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Atia Sanjida (Oishi) - GitHub Banner" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/AtiaAbk?tab=followers">
   <img src="https://img.shields.io/github/followers/AtiaAbk?label=Follow%20%40AtiaAbk&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow on GitHub"/>
