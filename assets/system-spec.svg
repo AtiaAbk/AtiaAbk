@@ -38,8 +38,27 @@
 
     <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00f0ff"/>
-      <stop offset="50%" stop-color="#2979ff"/>
+      <stop offset="45%" stop-color="#2979ff"/>
+      <stop offset="80%" stop-color="#00d4ff"/>
       <stop offset="100%" stop-color="#00ff88"/>
+    </linearGradient>
+
+    <linearGradient id="shieldInnerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#051530"/>
+      <stop offset="60%" stop-color="#030c1d"/>
+      <stop offset="100%" stop-color="#010610"/>
+    </linearGradient>
+
+    <linearGradient id="lockGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="45%" stop-color="#0099ff"/>
+      <stop offset="100%" stop-color="#0044bb"/>
+    </linearGradient>
+
+    <linearGradient id="lockShackleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
     </linearGradient>
 
     <linearGradient id="arcGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -106,52 +125,94 @@
   <g transform="translate(24, 52)">
     <rect width="248" height="265" rx="14" fill="#070b16" fill-opacity="0.9" stroke="#1f293d" stroke-width="1.2"/>
     
-    <!-- Cyber Security Radar / Arc Reactor Dial -->
+    <!-- Cyber Security Radar / Arc Reactor Dial with Padlock Security Shield -->
     <g transform="translate(124, 82)">
       <!-- Background Radial Core Glow -->
       <circle cx="0" cy="0" r="68" fill="url(#coreGlow)"/>
 
       <!-- Outer Fine Tech Ring -->
       <circle cx="0" cy="0" r="62" fill="none" stroke="#00f0ff" stroke-width="0.8" opacity="0.35"/>
-      <!-- Quadrant Ticks -->
-      <line x1="0" y1="-66" x2="0" y2="-58" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
-      <line x1="0" y1="58" x2="0" y2="66" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
-      <line x1="-66" y1="0" x2="-58" y2="0" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
-      <line x1="58" y1="0" x2="66" y2="0" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
+      <!-- Quadrant Crosshair Ticks -->
+      <line x1="0" y1="-67" x2="0" y2="-55" stroke="#00f0ff" stroke-width="1.8" opacity="0.85"/>
+      <line x1="0" y1="55" x2="0" y2="67" stroke="#00f0ff" stroke-width="1.8" opacity="0.85"/>
+      <line x1="-67" y1="0" x2="-55" y2="0" stroke="#00f0ff" stroke-width="1.8" opacity="0.85"/>
+      <line x1="55" y1="0" x2="67" y2="0" stroke="#00f0ff" stroke-width="1.8" opacity="0.85"/>
+
+      <!-- 4 Diagonal Tech Ticks -->
+      <line x1="-45" y1="-45" x2="-39" y2="-39" stroke="#00f0ff" stroke-width="1.2" opacity="0.5"/>
+      <line x1="39" y1="-39" x2="45" y2="-45" stroke="#00f0ff" stroke-width="1.2" opacity="0.5"/>
+      <line x1="-45" y1="45" x2="-39" y2="39" stroke="#00f0ff" stroke-width="1.2" opacity="0.5"/>
+      <line x1="39" y1="39" x2="45" y2="45" stroke="#00f0ff" stroke-width="1.2" opacity="0.5"/>
 
       <!-- Middle Segmented Rotating Teeth Ring -->
-      <circle cx="0" cy="0" r="54" fill="none" stroke="#00d4ff" stroke-width="2.2" stroke-dasharray="2, 6" opacity="0.6">
-        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/>
+      <circle cx="0" cy="0" r="54" fill="none" stroke="#00d4ff" stroke-width="2.2" stroke-dasharray="2, 5, 4, 5, 1.5, 6" opacity="0.65">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/>
       </circle>
 
       <!-- Main Heavy Glowing Arc Segments (Clockwise Rotation) -->
       <g>
-        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
         <!-- Arc 1: Neon Cyan Top-Right (20 to 140 deg) -->
-        <path d="M 14.71 -40.42 A 43 43 0 0 1 27.64 32.94" fill="none" stroke="url(#arcGrad1)" stroke-width="4.5" stroke-linecap="round" filter="url(#hudGlow)"/>
-        <!-- Arc 2: Neon Green Bottom-Right (160 to 260 deg) -->
-        <path d="M 14.71 40.42 A 43 43 0 0 1 -42.35 7.47" fill="none" stroke="url(#arcGrad2)" stroke-width="4" stroke-linecap="round" filter="url(#hudGlow)"/>
-        <!-- Arc 3: Neon Cyan-Blue Left (285 to 350 deg) -->
-        <path d="M -41.53 -11.13 A 43 43 0 0 1 -7.47 -42.35" fill="none" stroke="#00f0ff" stroke-width="3" stroke-linecap="round"/>
+        <path d="M 15.05 -41.35 A 44 44 0 0 1 28.28 33.71" fill="none" stroke="url(#arcGrad1)" stroke-width="4.2" stroke-linecap="round" filter="url(#hudGlow)"/>
+        <!-- Arc 2: Neon Teal Bottom-Left (165 to 260 deg) -->
+        <path d="M 11.39 42.50 A 44 44 0 0 1 -43.33 7.64" fill="none" stroke="url(#arcGrad2)" stroke-width="3.8" stroke-linecap="round" filter="url(#hudGlow)"/>
+        <!-- Arc 3: Neon Cyan-Blue Upper-Left (285 to 345 deg) -->
+        <path d="M -42.50 -11.39 A 44 44 0 0 1 -11.39 -42.50" fill="none" stroke="#00f0ff" stroke-width="3.0" stroke-linecap="round"/>
         
         <!-- Tech data dots on perimeter -->
-        <circle cx="27.64" cy="32.94" r="2.2" fill="#ffffff"/>
-        <circle cx="-42.35" cy="7.47" r="2.2" fill="#00ff88"/>
+        <circle cx="28.28" cy="33.71" r="2.2" fill="#ffffff"/>
+        <circle cx="-43.33" cy="7.64" r="2.2" fill="#00ffc4"/>
+        <circle cx="-11.39" cy="-42.50" r="1.8" fill="#00f0ff"/>
       </g>
 
       <!-- Inner Tech Counter-Rotating Ring -->
-      <circle cx="0" cy="0" r="33" fill="none" stroke="#00f0ff" stroke-width="1.4" stroke-dasharray="12, 6, 3, 6" opacity="0.75">
-        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="12s" repeatCount="indefinite"/>
+      <circle cx="0" cy="0" r="34" fill="none" stroke="#00f0ff" stroke-width="1.3" stroke-dasharray="14, 5, 3, 5" opacity="0.75">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="14s" repeatCount="indefinite"/>
       </circle>
 
-      <!-- Central Holographic Cyber Shield -->
+      <!-- Central Holographic Cyber Shield with Padlock (Exact Match to Reference Image) -->
       <g filter="url(#hudGlow)">
-        <!-- Shield Body -->
-        <path d="M 0 -20 L 16 -13 L 16 3 C 16 14 0 23 0 23 C 0 23 -16 14 -16 3 L -16 -13 Z" fill="#051124" fill-opacity="0.95" stroke="url(#shieldGrad)" stroke-width="2.6" stroke-linejoin="round"/>
-        <!-- Inner accent outline -->
-        <path d="M 0 -17 L 13 -11 L 13 2 C 13 11 0 19 0 19 C 0 19 -13 11 -13 2 L -13 -11 Z" fill="none" stroke="#00f0ff" stroke-width="0.8" opacity="0.4"/>
-        <!-- Center Glowing Checkmark -->
-        <path d="M -5 1 L -1 5 L 6 -3" fill="none" stroke="#00ff88" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+        <!-- Outer Shield Body: Classic curved security shield -->
+        <path d="M 0 -24 C 6 -27 16 -27 23 -21 C 24 -8 25 7 18 18 C 12 27 0 34 0 34 C 0 34 -12 27 -18 18 C -25 7 -24 -8 -23 -21 C -16 -27 -6 -27 0 -24 Z" 
+              fill="url(#shieldInnerGrad)" 
+              stroke="url(#shieldGrad)" 
+              stroke-width="2.6" 
+              stroke-linejoin="round"/>
+
+        <!-- Inner Accent Outline -->
+        <path d="M 0 -21 C 5 -24 13 -24 19 -19 C 20 -7 21 6 15 15 C 10 23 0 29 0 29 C 0 29 -10 23 -15 15 C -21 6 -20 -7 -19 -19 C -13 -24 -5 -24 0 -21 Z" 
+              fill="none" 
+              stroke="#00f0ff" 
+              stroke-width="0.8" 
+              opacity="0.45"/>
+
+        <!-- Top Rim Bevel Highlight -->
+        <path d="M -21 -20 C -15 -25 -5 -25 0 -22 C 5 -25 15 -25 21 -20" 
+              fill="none" 
+              stroke="#ffffff" 
+              stroke-width="1.2" 
+              stroke-linecap="round" 
+              opacity="0.85"/>
+
+        <!-- The Glowing Cyber Padlock -->
+        <g transform="translate(0, 1)">
+          <!-- Padlock Shackle / Loop -->
+          <path d="M -7.5 -3 L -7.5 -12 C -7.5 -18 7.5 -18 7.5 -12 L 7.5 -3" 
+                fill="none" 
+                stroke="url(#lockShackleGrad)" 
+                stroke-width="2.8" 
+                stroke-linecap="round"/>
+
+          <!-- Padlock Body -->
+          <rect x="-12.5" y="-3" width="25" height="19" rx="3.5" 
+                fill="url(#lockGrad)" 
+                stroke="#00f0ff" 
+                stroke-width="1.4"/>
+
+          <!-- Lock Keyhole: Upper Circle & Lower Slot -->
+          <circle cx="0" cy="4.5" r="2.5" fill="#020a18"/>
+          <path d="M -1.7 4.5 L 1.7 4.5 L 2.4 10.5 L -2.4 10.5 Z" fill="#020a18"/>
+        </g>
       </g>
     </g>
 
