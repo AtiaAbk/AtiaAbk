@@ -82,6 +82,9 @@
   <tr>
     <td width="26%" valign="top"><strong>⚙️ Tools &amp; Environment</strong></td>
     <td width="74%">
+      <img src="https://img.shields.io/badge/Burp_Suite_Professional-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite Professional"/>
+      <img src="https://img.shields.io/badge/Metasploit-1369AC?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+      <img src="https://img.shields.io/badge/Acunetix-EC2027?style=flat-square&logo=target&logoColor=white" alt="Acunetix"/>
       <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
       <img src="https://img.shields.io/badge/AutoCAD-E51000?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD"/>
