@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Atia Sanjida (Oishi) - GitHub Banner" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" alt="Atia Sanjida (Oishi) - GitHub Banner" width="100%"/>
+</picture>
 
 <br/><br/>
 
@@ -19,7 +23,13 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 ## 🧭 About Me & Engineering Focus
 
@@ -33,7 +43,13 @@ I am an **engineer and software builder** working at the intersection of **Pytho
 - 💬 **Ask me about:** Python scripting, YOLO object detection, Linux environments, Git internals, and automation workflows.
 - ⚡ **Fun fact:** I believe good documentation and visual architecture are just as crucial as clean code.
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 ## 🛠️ Technical Arsenal & Core Stack
 
@@ -85,7 +101,13 @@ I am an **engineer and software builder** working at the intersection of **Pytho
   </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 ## 🌟 Featured Engineering Projects
 
@@ -152,32 +174,61 @@ I am an **engineer and software builder** working at the intersection of **Pytho
   </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 ## 📊 Live GitHub Analytics & Continuous Metrics
 
 <p align="center">
-  <em>These analytics update automatically with real-time profile activity and code contributions.</em>
+  <em>These analytics dynamically adapt to both Light &amp; Dark themes and update automatically with real-time profile activity.</em>
 </p>
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9" alt="AtiaAbk's GitHub stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="175"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328">
+    <img src="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9" alt="AtiaAbk's GitHub stats" height="175"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=0969da&text_color=1f2328">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="175"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AtiaAbk&theme=tokyonight&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f05032&currStreakLabel=388bfd" alt="GitHub Streak" width="85%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AtiaAbk&theme=tokyonight&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f05032&currStreakLabel=388bfd">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AtiaAbk&theme=default&hide_border=false&border=d0d7de&background=ffffff&stroke=0969da&ring=0969da&fire=f05032&currStreakLabel=0969da&dates=57606a">
+    <img src="https://streak-stats.demolab.com/?user=AtiaAbk&theme=tokyonight&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f05032&currStreakLabel=388bfd" alt="GitHub Streak" width="85%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=f05032&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=f05032&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=minimal&bg_color=ffffff&color=0969da&line=0969da&point=f05032&area=true&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=f05032&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  </picture>
 </p>
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -207,6 +258,10 @@ I am an **engineer and software builder** working at the intersection of **Pytho
 
 <br/><br/>
 
-<img src="assets/footer.svg" alt="Footer Banner" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-dark.svg" alt="Footer Banner" width="100%"/>
+</picture>
 
 </div>
