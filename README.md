@@ -150,19 +150,24 @@
 
 <p align="center">
   <a href="https://github.com/AtiaAbk?tab=followers" target="_blank">
-    <img src="assets/btn-github.svg" width="235" alt="Follow on GitHub"/>
+    <img src="assets/btn-github.svg" width="245" alt="Follow on GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/atia-sanjida-085947233/" target="_blank">
-    <img src="assets/btn-linkedin.svg" width="235" alt="LinkedIn"/>
+    <img src="assets/btn-linkedin.svg" width="245" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:atia.abk@gmail.com">
-    <img src="assets/btn-email.svg" width="235" alt="Email Me"/>
+    <img src="assets/btn-email.svg" width="245" alt="Email Me"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/AtiaOishe" target="_blank">
+    <img src="assets/btn-twitter.svg" width="245" alt="Twitter / X"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/AtiaOishe" target="_blank">
-    <img src="assets/btn-twitter.svg" width="235" alt="Twitter / X"/>
+  <a href="https://www.facebook.com/AtiaAbk" target="_blank">
+    <img src="assets/btn-facebook.svg" width="245" alt="Facebook"/>
   </a>
 </p>
 
