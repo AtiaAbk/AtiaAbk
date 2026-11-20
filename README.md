@@ -35,11 +35,11 @@
 <br/>
 
 </div>
-
+<!--
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
-
+-->
 ## 👤 About & Engineering Focus
 
 <p align="center">
