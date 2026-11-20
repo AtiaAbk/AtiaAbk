@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/AtiaAbk?label=Follow%20%40AtiaAbk&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow on GitHub"/>
 </a>
 <a href="https://github.com/AtiaAbk?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-64+-388bfd?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Repositories-70+-388bfd?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
 </a>
 <a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
   <img src="https://img.shields.io/badge/LinkedIn-Atia%20Sanjida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,17 +31,17 @@
   </picture>
 </p>
 
-## 🧭 About Me & Engineering Focus
+## 🌱 About Me
 
-> **"I build practical software, analyze systems, and translate complex technical concepts into clear, visual architecture."**
+Hi! I'm **Atia (Oishi)** — a Computer Science student and passionate self-learner.
 
-I am an **engineer and software builder** working at the intersection of **Python development, Computer Vision (YOLOv8 & OpenCV), and Cybersecurity**. Whether I am developing real-time object tracking pipelines, engineering intelligent assistant workflows, or authoring comprehensive technical manuals, my focus is always on **precision, clean code architecture, and high-impact usability**.
+I use GitHub as my personal learning workbench. Rather than just following theory, I learn best by writing scripts, building small utility tools, testing computer vision models, and organizing my study notes into visual guides.
 
-- 🔭 **What I'm currently engineering:** Real-time computer vision detection systems, modular Python automation tools, and ML predictive pipelines.
-- 🌱 **Deep-diving into:** Linux kernel architectures, network packet analysis, and defensive cybersecurity mechanisms.
-- 📚 **Technical Authoring:** Creator of the widely structured [36-Section Git & GitHub Mastery Guide](https://github.com/AtiaAbk/Git-Learning) and the [Multi-Distribution Linux Terminal Manual](https://github.com/AtiaAbk/Learning-Linux).
-- 💬 **Ask me about:** Python scripting, YOLO object detection, Linux environments, Git internals, and automation workflows.
-- ⚡ **Fun fact:** I believe good documentation and visual architecture are just as crucial as clean code.
+- 🎓 **Status:** CS Student focusing on programming fundamentals, data workflows, and security basics.
+- 💻 **Primary Language:** Python — building mini-apps, automation tools, file parsers, and OpenCV experiments.
+- 🛠️ **Foundational Languages:** C & C++ (data structures and academic simulations), Java (object-oriented programming & game logic).
+- 🔍 **Things I Like Building:** Practical tools that solve specific tasks (like counting vehicles with YOLO, parsing image numbers in datasets, or managing tasks with Streamlit).
+- 📚 **Why I Write Guides:** When I study a complex subject (like Git workflows or Linux architecture), I turn my notes into structured, visual references so I remember them and others can learn too.
 
 <p align="center">
   <picture>
@@ -51,52 +51,43 @@ I am an **engineer and software builder** working at the intersection of **Pytho
   </picture>
 </p>
 
-## 🛠️ Technical Arsenal & Core Stack
+## 🛠️ Tech Stack & Tools I Use
 
 <table>
   <tr>
-    <td width="25%" valign="top"><strong>💻 Languages</strong></td>
-    <td width="75%">
+    <td width="28%" valign="top"><strong>💻 Programming Languages</strong></td>
+    <td width="72%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
       <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5/CSS3"/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>🧠 AI, CV &amp; Data Science</strong></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8"/>
+    <td width="28%" valign="top"><strong>👁️ Computer Vision &amp; Libraries</strong></td>
+    <td width="72%">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>🛡️ Cybersecurity &amp; Systems</strong></td>
-    <td width="75%">
+    <td width="28%" valign="top"><strong>🐧 Systems, Security &amp; Tools</strong></td>
+    <td width="72%">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-      <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-      <img src="https://img.shields.io/badge/Nmap-002B36?style=for-the-badge&logo=target&logoColor=white" alt="Nmap"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><strong>⚙️ DevOps, Tools &amp; DB</strong></td>
-    <td width="75%">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
     </td>
   </tr>
 </table>
@@ -109,70 +100,32 @@ I am an **engineer and software builder** working at the intersection of **Pytho
   </picture>
 </p>
 
-## 🌟 Featured Engineering Projects
+## 📂 What I've Built & Explored
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌳 <a href="https://github.com/AtiaAbk/Git-Learning">Git-Learning</a></h3>
-      <p>A self-contained, 36-section visual mastery guide teaching Git and GitHub from absolute first principles to production-grade team workflows. Features 50+ animated SVG architectures and complete recovery cheatsheets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docs-Architecture-8957e5?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐧 <a href="https://github.com/AtiaAbk/Learning-Linux">Learning-Linux</a></h3>
-      <p>A single, unified manual covering the Linux terminal and system architecture across Ubuntu, Kali, and Fedora. Explores the Linux kernel space vs user space, boot procedures, package managers, and security permissions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SysAdmin-Ubuntu%20%7C%20Kali-E95420?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/AtiaAbk/Vehicle-Tracking-System">Vehicle-Tracking-System</a></h3>
-      <p>Real-time vehicle detection, tracking, and traffic counting system utilizing modern deep learning. Integrates YOLOv8 object detection with OpenCV for robust multi-lane highway surveillance and flow analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/AtiaAbk/ACCESS-AI">ACCESS-AI</a></h3>
-      <p>Intelligent, adaptive desktop cognitive assistant combining machine learning, automated tasks, and user assistance to streamline developer workflows and productivity.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20Assistant-Desktop-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Automation-388bfd?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/AtiaAbk/Ecommerce-customer-analysis">Ecommerce-Customer-Analysis</a></h3>
-      <p>End-to-end customer segmentation and behavioral analytics platform. Leverages clustering algorithms, regression models, and interactive Streamlit dashboards for business intelligence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/AtiaAbk/mac-guard-agent">mac-guard-agent</a></h3>
-      <p>Defensive endpoint security agent designed to monitor system anomalies, unauthorized network activity, and process events for macOS environments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Cybersecurity-Defensive-2ea043?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Monitoring-Agent-388bfd?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+Here is a look at what is actually inside my repositories, categorized by what I've coded and learned:
+
+### 👁️ Computer Vision & Image Processing
+- **[Vehicle-Tracking-System](https://github.com/AtiaAbk/Vehicle-Tracking-System)** — Real-time vehicle detection, tracking, and traffic counting using YOLOv8s and OpenCV.
+- **[Missing-image-file-detector](https://github.com/AtiaAbk/Missing-image-file-detector)** — A Python utility script to scan directories and detect missing sequential image numbers in datasets.
+- **[ImageFilterCSV](https://github.com/AtiaAbk/ImageFilterCSV)** — Filter and export image numbers from CSV data based on quality analysis with sequence-aware formatting.
+- **[Computer-Vision-](https://github.com/AtiaAbk/Computer-Vision-)** — Practical code experiments using OpenCV for image transformations, contours, and video processing.
+
+### ⚙️ Python & Streamlit Utility Tools
+- **[Queflow-app](https://github.com/AtiaAbk/Queflow-app)** — A lightweight task scheduling application with real-time status tracking built with Python, Streamlit, and SQLite.
+- **[Smart-Task-Manager](https://github.com/AtiaAbk/Smart-Task-Manager)** — Clean Streamlit task management app to add, track, and complete daily tasks with scheduling.
+- **[Multi-Mode-Scientific-Calculator](https://github.com/AtiaAbk/Multi-Mode-Scientific-Calculator)** — Web-based scientific calculator supporting arithmetic, trigonometry, and complex number operations.
+- **[python-file-analyzer](https://github.com/AtiaAbk/python-file-analyzer)** — CLI tool for extracting metadata, line metrics, and structure from CSV, text, and log files.
+
+### 📚 Visual Learning Guides & Study References
+- **[Git-Learning](https://github.com/AtiaAbk/Git-Learning)** — A complete, 36-section visual reference guide for Git and GitHub, covering daily commands, internals, recovery tricks, and 50+ SVG diagrams.
+- **[Learning-Linux](https://github.com/AtiaAbk/Learning-Linux)** — Structured Linux terminal and filesystem guide covering Ubuntu, Kali, and Fedora architectures, package managers, and permissions.
+- **[SQLi](https://github.com/AtiaAbk/SQLi)** — Educational repository documenting SQL injection concepts, OWASP security resources, and secure database practices.
+- **[Network-engineering](https://github.com/AtiaAbk/Network-engineering)** — Personal study notes on network fundamentals, protocols, and terminal networking utilities.
+
+### 🎮 Academic Foundations & C / Java Projects
+- **[2x12-Spark--Birth-of-36-july](https://github.com/AtiaAbk/2x12-Spark--Birth-of-36-july)** — A 3D Java game project built around the July 2024 student movement.
+- **[Online-voting-mechine-](https://github.com/AtiaAbk/Online-voting-mechine-)** — A portable electronic voting machine simulation written in C demonstrating arrays, control flow, and functions.
+- **[OFC-data-transmission-](https://github.com/AtiaAbk/OFC-data-transmission-)** — Simulation of signal transmission across optical fiber cable and LED light source written in C++.
 
 <p align="center">
   <picture>
@@ -182,10 +135,10 @@ I am an **engineer and software builder** working at the intersection of **Pytho
   </picture>
 </p>
 
-## 📊 Live GitHub Analytics & Continuous Metrics
+## 📊 Live GitHub Activity
 
 <p align="center">
-  <em>These analytics dynamically adapt to both Light &amp; Dark themes and update automatically with real-time profile activity.</em>
+  <em>These stats update automatically with real-time profile activity and code contributions.</em>
 </p>
 
 <div align="center">
@@ -230,12 +183,12 @@ I am an **engineer and software builder** working at the intersection of **Pytho
   </picture>
 </p>
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Connect With Me
 
 <div align="center">
 
 <p>
-  <strong>Open to internships, junior developer roles, research collaborations, and open-source contributions.</strong>
+  <strong>Always happy to connect, share knowledge, and collaborate on interesting student projects!</strong>
 </p>
 
 <br/>
