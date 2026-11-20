@@ -48,10 +48,6 @@
 
 ## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="assets/tech-matrix.svg" width="100%" alt="Technical Skills Matrix"/>
-</p>
-
 <table width="100%">
   <tr>
     <td width="26%" valign="top"><strong>🛡️ Cybersecurity &amp; Systems</strong></td>

@@ -87,25 +87,25 @@
       <text x="155" y="0" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="600" fill="#39d353">B.Sc. in Information &amp; Communication Eng. (ICE)</text>
 
       <text x="0" y="23" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Workstation:</text>
-      <text x="155" y="23" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Linux Workstation (x86_64, Kali Linux &amp; Ubuntu 24.04)</text>
+      <text x="155" y="23" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Linux Workstation (x86_64, Kali Linux &amp; Ubuntu LTS)</text>
 
-      <text x="0" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Low-Level &amp; OS:</text>
-      <text x="155" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">C, C++ (Memory Internals, POSIX), Bash, Zsh, Tmux</text>
+      <text x="0" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Shell &amp; Session:</text>
+      <text x="155" y="46" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Zsh 5.9 + Tmux (Multi-pane Terminal Multiplexer)</text>
 
-      <text x="0" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">High-Level Dev:</text>
-      <text x="155" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Python (Automation, Scikit, OpenCV), SQL, Java</text>
+      <text x="0" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Core Specialization:</text>
+      <text x="155" y="69" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Systems Engineering &amp; Defensive Security Research</text>
 
-      <text x="0" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Engineering Suite:</text>
-      <text x="155" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="600" fill="#58a6ff">Unreal Engine 5, MATLAB, AutoCAD, CST Studio Suite</text>
+      <text x="0" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Security Lab:</text>
+      <text x="155" y="92" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#58a6ff">Vulnerability Analysis, Penetration Testing &amp; Protocols</text>
 
-      <text x="0" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Security Tooling:</text>
-      <text x="155" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Wireshark, OWASP Top 10 Labs, Nmap, Burp Suite</text>
+      <text x="0" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Applied AI Focus:</text>
+      <text x="155" y="115" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#d2a8ff">Autonomous Agent Workflows &amp; Computer Vision</text>
 
-      <text x="0" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Version Control:</text>
-      <text x="155" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">Git Internals (DAGs, Objects, Plumbing Commands)</text>
+      <text x="0" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Engineering Scope:</text>
+      <text x="155" y="138" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#e6edf3">3D Environment Simulation &amp; Antenna RF Modeling</text>
 
       <text x="0" y="161" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="700" fill="#79c0ff">Telemetry &amp; Code:</text>
-      <text x="155" y="161" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#bc8cff">70+ Repositories • VS Code • Linux CLI Environment</text>
+      <text x="155" y="161" font-family="'JetBrains Mono', monospace" font-size="12.5" font-weight="500" fill="#bc8cff">70+ Public Repositories • First-Principles Builder</text>
     </g>
 
     <!-- Color Palette / Terminal Dots -->
