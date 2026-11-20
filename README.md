@@ -39,7 +39,7 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 -->
-# 👤 About 
+
 
 <p align="center">
   <img src="assets/system-spec-v5.svg" width="100%" alt="System Specifications & Profile"/>
