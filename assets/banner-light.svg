@@ -95,16 +95,16 @@
   <circle cx="68" cy="20" r="6" fill="#27c93f"/>
 
   <text x="500" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#57606a" text-anchor="middle">
-    atia@workbench: ~/systems-learning (main)
+    atia@ice-station: ~/systems-and-security (main)
   </text>
 
   <!-- Status Badge -->
-  <g transform="translate(760, 10)">
-    <rect width="215" height="22" rx="11" fill="#ddf4ff" stroke="#0969da" stroke-width="1.2"/>
+  <g transform="translate(730, 10)">
+    <rect width="245" height="22" rx="11" fill="#ddf4ff" stroke="#0969da" stroke-width="1.2"/>
     <circle cx="14" cy="11" r="4.5" fill="#0969da">
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="26" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#0969da" letter-spacing="0.5">LEARNING &amp; BUILDING 🚀</text>
+    <text x="26" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#0969da" letter-spacing="0.5">B.SC. ICE • SYSTEMS &amp; SECURITY 🛡️</text>
   </g>
 
   <!-- Monogram Box -->
@@ -129,17 +129,17 @@
 
               <!-- Dynamic Cycling Roles -->
   <g transform="translate(182, 162)">
-    <text class="role-1" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      🛡️ <tspan fill="#0969da">Systems &amp; Security</tspan> — Linux architecture, operating system internals &amp; web security
+    <text class="role-1" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15.5" font-weight="600" fill="#1f2328">
+      🛡️ <tspan fill="#0969da">Security Researcher</tspan> — Cybersecurity, ethical hacking &amp; vulnerability research
     </text>
-    <text class="role-2" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      👁️ <tspan fill="#8250df">Applied AI &amp; Computer Vision</tspan> — Real-time vehicle detection (YOLOv8), tracking &amp; OpenCV
+    <text class="role-2" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15.5" font-weight="600" fill="#1f2328">
+      🐧 <tspan fill="#8250df">Systems Engineering Learner</tspan> — Linux architecture, operating system internals &amp; C/C++
     </text>
-    <text class="role-3" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      ⚙️ <tspan fill="#1a7f37">Low-Level &amp; Scripting</tspan> — C &amp; C++ foundations, Python systems automation &amp; Bash tooling
+    <text class="role-3" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15.5" font-weight="600" fill="#1f2328">
+      🤖 <tspan fill="#1a7f37">AI/ML &amp; Agentic AI Learner</tspan> — Exploring autonomous agents, predictive ML &amp; YOLOv8 vision
     </text>
-    <text class="role-4" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      📝 <tspan fill="#cf222e">Technical Architecture Guides</tspan> — In-depth visual documentation for Git internals &amp; Linux
+    <text class="role-4" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15.5" font-weight="600" fill="#1f2328">
+      📝 <tspan fill="#cf222e">Technical Documentation</tspan> — Visual architecture guides for Git internals &amp; Linux
     </text>
   </g>
 
@@ -147,7 +147,7 @@
   <g transform="translate(48, 222)">
     <rect width="904" height="42" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
     <text x="24" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#8b949e">
-      🌱 <tspan fill="#1f2328" font-weight="500">"Computer Science student working across Systems, Security, and Applied AI."</tspan>
+      🎓 <tspan fill="#1f2328" font-weight="500">"B.Sc. student in Information &amp; Communication Engineering — exploring Systems, Security, and Agentic AI."</tspan>
     </text>
   </g>
 

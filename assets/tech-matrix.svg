@@ -35,8 +35,8 @@
     <rect x="24" y="24" width="38" height="38" rx="10" fill="url(#redGrad)"/>
     <path d="M43 33 L51 37 V45 C51 51 43 55 43 55 C43 55 35 51 35 45 V37 Z" fill="#ffffff" fill-opacity="0.25" stroke="#ffffff" stroke-width="1.8"/>
     
-    <text x="70" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">Security &amp; Web</text>
-    <text x="70" y="58" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#ff7b72">VULNERABILITY STUDY</text>
+    <text x="70" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Security &amp; Hacking</text>
+    <text x="70" y="58" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="500" fill="#ff7b72">ETHICAL HACKING LABS</text>
 
     <text x="24" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• OWASP Top 10 Concepts</text>
     <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• SQL Injection (SQLi) Labs</text>
@@ -45,7 +45,7 @@
     <text x="24" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• ESP32 WiFi CSI Hardware</text>
 
     <rect x="24" y="218" width="205" height="22" rx="11" fill="#21262d" stroke="#f85149" stroke-width="0.8"/>
-    <text x="126" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#ff7b72" text-anchor="middle">DEFENSIVE CONCEPTS</text>
+    <text x="126" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#ff7b72" text-anchor="middle">DEFENSIVE &amp; ETHICAL</text>
   </g>
 
   <!-- Card 2: Linux & Systems -->
@@ -56,17 +56,17 @@
     <rect x="271" y="24" width="38" height="38" rx="10" fill="url(#blueGrad)"/>
     <text x="290" y="49" font-size="20" text-anchor="middle">🐧</text>
 
-    <text x="317" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">Linux &amp; Systems</text>
-    <text x="317" y="58" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#79c0ff">OS &amp; ARCHITECTURE</text>
+    <text x="317" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Systems Engineering</text>
+    <text x="317" y="58" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="500" fill="#79c0ff">LINUX &amp; OS INTERNALS</text>
 
     <text x="271" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Linux FHS &amp; Permissions</text>
     <text x="271" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Ubuntu, Kali &amp; Fedora</text>
     <text x="271" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• C (Memory, Arrays, Structs)</text>
     <text x="271" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• C++ (Signal Simulation)</text>
-    <text x="271" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Networking Fundamentals</text>
+    <text x="271" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Network Protocols &amp; Sockets</text>
 
     <rect x="271" y="218" width="205" height="22" rx="11" fill="#21262d" stroke="#388bfd" stroke-width="0.8"/>
-    <text x="373" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#79c0ff" text-anchor="middle">SYSTEMS PROGRAMMING</text>
+    <text x="373" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#79c0ff" text-anchor="middle">SYSTEMS LEARNER</text>
   </g>
 
   <!-- Card 3: Python & Scripting -->
@@ -77,8 +77,8 @@
     <rect x="518" y="24" width="38" height="38" rx="10" fill="url(#greenGrad)"/>
     <text x="537" y="49" font-size="20" text-anchor="middle">🐍</text>
 
-    <text x="564" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">Python &amp; Tools</text>
-    <text x="564" y="58" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7ee787">SCRIPTING &amp; AUTOMATION</text>
+    <text x="564" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Python &amp; Tools</text>
+    <text x="564" y="58" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="500" fill="#7ee787">SCRIPTING &amp; AUTOMATION</text>
 
     <text x="518" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Python CLI &amp; Log Parsers</text>
     <text x="518" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Bash Shell Scripting</text>
@@ -90,24 +90,24 @@
     <text x="620" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#7ee787" text-anchor="middle">UTILITY DEVELOPMENT</text>
   </g>
 
-  <!-- Card 4: AI & Computer Vision -->
+  <!-- Card 4: AI, ML & Agentic AI -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4.2s" repeatCount="indefinite"/>
     <rect x="751" y="10" width="233" height="245" rx="16" fill="url(#cardBg)" stroke="#8957e5" stroke-opacity="0.8" stroke-width="1.5"/>
     
     <rect x="765" y="24" width="38" height="38" rx="10" fill="url(#purpleGrad)"/>
-    <text x="784" y="49" font-size="20" text-anchor="middle">🧠</text>
+    <text x="784" y="49" font-size="20" text-anchor="middle">🤖</text>
 
-    <text x="811" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">AI &amp; Computer Vision</text>
-    <text x="811" y="58" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#d2a8ff">PROVEN PIPELINES</text>
+    <text x="811" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff">AI, ML &amp; Agentic AI</text>
+    <text x="811" y="58" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#d2a8ff">CURRENT &amp; APPLIED WORK</text>
 
-    <text x="765" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• YOLOv8 Vehicle Detection</text>
-    <text x="765" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• OpenCV Video Pipelines</text>
-    <text x="765" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Dataset File Verifiers</text>
-    <text x="765" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• CSV Sequence Processing</text>
-    <text x="765" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• ML Predictive Analysis</text>
+    <text x="765" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Agentic AI &amp; Workflows</text>
+    <text x="765" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• YOLOv8 Vehicle Detection</text>
+    <text x="765" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• OpenCV Video Pipelines</text>
+    <text x="765" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Machine Learning Models</text>
+    <text x="765" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Dataset Numbering Tools</text>
 
     <rect x="765" y="218" width="205" height="22" rx="11" fill="#21262d" stroke="#8957e5" stroke-width="0.8"/>
-    <text x="867" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#d2a8ff" text-anchor="middle">APPLIED ML &amp; VISION</text>
+    <text x="867" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#d2a8ff" text-anchor="middle">AI &amp; AGENTIC SYSTEMS</text>
   </g>
 </svg>

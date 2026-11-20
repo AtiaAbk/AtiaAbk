@@ -7,8 +7,14 @@
 <a href="https://github.com/AtiaAbk?tab=followers">
   <img src="https://img.shields.io/github/followers/AtiaAbk?label=Follow%20%40AtiaAbk&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow on GitHub"/>
 </a>
+<a href="https://github.com/AtiaAbk">
+  <img src="https://img.shields.io/badge/B.Sc.-Information%20%26%20Communication%20Eng.-1f883d?style=for-the-badge&logo=google-scholar&logoColor=white" alt="B.Sc. in ICE"/>
+</a>
 <a href="https://github.com/AtiaAbk?tab=repositories">
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security-1f883d?style=for-the-badge&logo=shield&logoColor=white" alt="Systems & Security Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security-0969da?style=for-the-badge&logo=shield&logoColor=white" alt="Systems & Security Focus"/>
+</a>
+<a href="https://github.com/AtiaAbk?tab=repositories">
+  <img src="https://img.shields.io/badge/Exploring-AI%2FML%20%26%20Agentic%20AI-8957e5?style=for-the-badge&logo=probot&logoColor=white" alt="AI/ML & Agentic AI"/>
 </a>
 <a href="https://github.com/AtiaAbk?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-70+-388bfd?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
@@ -32,7 +38,7 @@
   <img src="assets/system-spec.svg" width="100%" alt="System Specifications & Profile"/>
 </p>
 
-> **"Computer Science student working across Systems Engineering and Security Research. With a background building practical Computer Vision (YOLOv8, OpenCV) and Applied ML pipelines, my current work centers on Linux architecture, operating system internals, network protocols, and web security analysis."**
+> **"B.Sc. student in Information & Communication Engineering (ICE). Systems Engineering Learner and Security Researcher focusing on cybersecurity, ethical hacking, and operating system internals. Currently learning AI/ML and Agentic AI workflows alongside applied experience building real-time Computer Vision (YOLOv8, OpenCV) pipelines."**
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%"/>
@@ -46,11 +52,12 @@
 
 <table width="100%">
   <tr>
-    <td width="26%" valign="top"><strong>🛡️ Security &amp; Systems</strong></td>
+    <td width="26%" valign="top"><strong>🛡️ Cybersecurity &amp; Systems</strong></td>
     <td width="74%">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+      <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="Ethical Hacking"/>
       <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
       <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 IoT"/>
@@ -68,8 +75,9 @@
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="top"><strong>🧠 AI &amp; Computer Vision</strong></td>
+    <td width="26%" valign="top"><strong>🤖 AI, ML &amp; Agentic AI</strong></td>
     <td width="74%">
+      <img src="https://img.shields.io/badge/Agentic_AI-8957E5?style=flat-square&logo=probot&logoColor=white" alt="Agentic AI"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
