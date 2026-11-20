@@ -54,73 +54,62 @@
 
 <table width="100%">
   <tr>
-    <td width="26%" valign="middle">
-      <strong>🛡️ Cybersecurity &amp; Systems</strong><br/>
-      <sub style="color: #79c0ff;">Offensive &amp; Defensive Labs</sub>
-    </td>
+    <td width="26%" valign="top"><strong>🛡️ Cybersecurity &amp; Systems</strong></td>
     <td width="74%">
-      <img src="https://img.shields.io/badge/Linux-10141d?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Kali_Linux-10141d?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Kali Linux"/>
-      <img src="https://img.shields.io/badge/Ubuntu_Server-10141d?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu Server"/>
-      <img src="https://img.shields.io/badge/Nmap-10141d?style=flat-square&logo=nmap&logoColor=2563EB" alt="Nmap"/>
-      <img src="https://img.shields.io/badge/Wireshark-10141d?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
-      <img src="https://img.shields.io/badge/Metasploit-10141d?style=flat-square&logo=metasploit&logoColor=1369AC" alt="Metasploit"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Burp_Suite_Pro-10141d?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite Pro"/>
-      <img src="https://img.shields.io/badge/PortSwigger_Labs-10141d?style=flat-square&logo=portswigger&logoColor=FF6633" alt="PortSwigger Labs"/>
-      <img src="https://img.shields.io/badge/OWASP-10141d?style=flat-square&logo=owasp&logoColor=ffffff" alt="OWASP"/>
-      <img src="https://img.shields.io/badge/TryHackMe-10141d?style=flat-square&logo=tryhackme&logoColor=E32636" alt="TryHackMe"/>
-      <img src="https://img.shields.io/badge/Hack_The_Box-10141d?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+      <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
+      <img src="https://img.shields.io/badge/Nmap-2563EB?style=flat-square&logo=radar&logoColor=white" alt="Nmap"/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+      <img src="https://img.shields.io/badge/Metasploit-1369AC?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+      <img src="https://img.shields.io/badge/PortSwigger_Labs-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="PortSwigger Labs"/>
+      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+      <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="middle">
-      <strong>💻 Programming Languages</strong><br/>
-      <sub style="color: #58a6ff;">Systems &amp; Scripting</sub>
-    </td>
+    <td width="26%" valign="top"><strong>💻 Programming Languages</strong></td>
     <td width="74%">
-      <img src="https://img.shields.io/badge/Python-10141d?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-      <img src="https://img.shields.io/badge/C-10141d?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-10141d?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++"/>
-      <img src="https://img.shields.io/badge/Bash-10141d?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
-      <img src="https://img.shields.io/badge/SQL-10141d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL"/>
-      <img src="https://img.shields.io/badge/Java-10141d?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="middle">
-      <strong>🤖 AI, ML &amp; Agentic AI</strong><br/>
-      <sub style="color: #bc8cff;">Vision &amp; Autonomous Workflows</sub>
-    </td>
+    <td width="26%" valign="top"><strong>🤖 AI, ML &amp; Agentic AI</strong></td>
     <td width="74%">
-      <img src="https://img.shields.io/badge/Agentic_AI-10141d?style=flat-square&logo=probot&logoColor=8957E5" alt="Agentic AI"/>
-      <img src="https://img.shields.io/badge/OpenCV-10141d?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/YOLOv8-10141d?style=flat-square&logo=yolo&logoColor=00f0ff" alt="YOLOv8"/>
-      <img src="https://img.shields.io/badge/Streamlit-10141d?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
-      <img src="https://img.shields.io/badge/Pandas-10141d?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-10141d?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-10141d?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/Agentic_AI-8957E5?style=flat-square&logo=probot&logoColor=white" alt="Agentic AI"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
     </td>
   </tr>
   <tr>
-    <td width="26%" valign="middle">
-      <strong>⚙️ Tools &amp; Environment</strong><br/>
-      <sub style="color: #7ee787;">Simulation, CAD &amp; Engineering</sub>
-    </td>
+    <td width="26%" valign="top"><strong>⚙️ Tools &amp; Environment</strong></td>
     <td width="74%">
-      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-10141d?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Cisco Packet Tracer"/>
-      <img src="https://img.shields.io/badge/CST_Studio_Suite-10141d?style=flat-square&logo=dassaultsystemes&logoColor=005A9C" alt="CST Studio Suite"/>
-      <img src="https://img.shields.io/badge/MATLAB-10141d?style=flat-square&logo=mathworks&logoColor=0076A8" alt="MATLAB"/>
-      <img src="https://img.shields.io/badge/AutoCAD-10141d?style=flat-square&logo=autodesk&logoColor=E51000" alt="AutoCAD"/>
-      <img src="https://img.shields.io/badge/Unreal_Engine_5-10141d?style=flat-square&logo=unrealengine&logoColor=ffffff" alt="Unreal Engine 5"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Acunetix-10141d?style=flat-square&logo=target&logoColor=EC2027" alt="Acunetix"/>
-      <img src="https://img.shields.io/badge/MySQL-10141d?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/SQLite-10141d?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite"/>
-      <img src="https://img.shields.io/badge/Git-10141d?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-10141d?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VS_Code-10141d?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Terminal-10141d?style=flat-square&logo=gnubash&logoColor=39d353" alt="Terminal"/>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+      <img src="https://img.shields.io/badge/Burp_Suite_Professional-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite Professional"/>
+      <img src="https://img.shields.io/badge/Metasploit-1369AC?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+      <img src="https://img.shields.io/badge/Acunetix-EC2027?style=flat-square&logo=target&logoColor=white" alt="Acunetix"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
+      <img src="https://img.shields.io/badge/AutoCAD-E51000?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+      <img src="https://img.shields.io/badge/CST_Studio_Suite-005A9C?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="CST Studio Suite"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnubash&logoColor=white" alt="Terminal"/>
     </td>
   </tr>
 </table>
