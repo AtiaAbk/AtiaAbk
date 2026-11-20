@@ -32,7 +32,7 @@
   <img src="assets/icons/reddit.svg" width="36" height="36" alt="Reddit"/>
 </a>
 
-<br/>
+<br/><br/>
 
 </div>
 <!--
