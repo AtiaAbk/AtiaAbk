@@ -54,24 +54,24 @@
     .role-4 { animation: role4 12s infinite; }
 
     @keyframes role1 {
-      0%, 22%   { opacity: 1; transform: translateY(0px); }
-      25%, 97%  { opacity: 0; transform: translateY(-8px); }
-      100%      { opacity: 1; transform: translateY(0px); }
+      0%, 20%   { opacity: 1; }
+      23%, 97%  { opacity: 0; }
+      100%      { opacity: 1; }
     }
     @keyframes role2 {
-      0%, 23%   { opacity: 0; transform: translateY(8px); }
-      26%, 47%  { opacity: 1; transform: translateY(0px); }
-      50%, 100% { opacity: 0; transform: translateY(-8px); }
+      0%, 24%   { opacity: 0; }
+      27%, 45%  { opacity: 1; }
+      48%, 100% { opacity: 0; }
     }
     @keyframes role3 {
-      0%, 48%   { opacity: 0; transform: translateY(8px); }
-      51%, 72%  { opacity: 1; transform: translateY(0px); }
-      75%, 100% { opacity: 0; transform: translateY(-8px); }
+      0%, 49%   { opacity: 0; }
+      52%, 70%  { opacity: 1; }
+      73%, 100% { opacity: 0; }
     }
     @keyframes role4 {
-      0%, 73%   { opacity: 0; transform: translateY(8px); }
-      76%, 97%  { opacity: 1; transform: translateY(0px); }
-      100%      { opacity: 0; transform: translateY(-8px); }
+      0%, 74%   { opacity: 0; }
+      77%, 95%  { opacity: 1; }
+      98%, 100% { opacity: 0; }
     }
   </style>
 
@@ -127,19 +127,19 @@
     <text x="350" y="34" font-size="28">👋</text>
   </g>
 
-            <!-- Dynamic Cycling Roles -->
+              <!-- Dynamic Cycling Roles -->
   <g transform="translate(182, 162)">
     <text class="role-1" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      🛡️ <tspan fill="#0969da">System Security &amp; Linux</tspan> — Web security, OS architecture &amp; defensive labs
+      🛡️ <tspan fill="#0969da">Systems &amp; Security</tspan> — Linux architecture, operating system internals &amp; web security
     </text>
     <text class="role-2" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      🐍 <tspan fill="#8250df">Python &amp; Systems Tooling</tspan> — CLI utilities, automation scripts &amp; Streamlit apps
+      👁️ <tspan fill="#8250df">Applied AI &amp; Computer Vision</tspan> — Real-time vehicle detection (YOLOv8), tracking &amp; OpenCV
     </text>
     <text class="role-3" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      💻 <tspan fill="#1a7f37">Low-Level Programming</tspan> — C &amp; C++ foundations, memory concepts &amp; simulations
+      ⚙️ <tspan fill="#1a7f37">Low-Level &amp; Scripting</tspan> — C &amp; C++ foundations, Python systems automation &amp; Bash tooling
     </text>
     <text class="role-4" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#1f2328">
-      📝 <tspan fill="#cf222e">Technical Documentation</tspan> — Curating visual reference guides for Git &amp; Linux
+      📝 <tspan fill="#cf222e">Technical Architecture Guides</tspan> — In-depth visual documentation for Git internals &amp; Linux
     </text>
   </g>
 
@@ -147,7 +147,7 @@
   <g transform="translate(48, 222)">
     <rect width="904" height="42" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
     <text x="24" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#8b949e">
-      🌱 <tspan fill="#1f2328" font-weight="500">"Computer Science student exploring systems, security, and building practical software."</tspan>
+      🌱 <tspan fill="#1f2328" font-weight="500">"Computer Science student working across Systems, Security, and Applied AI."</tspan>
     </text>
   </g>
 

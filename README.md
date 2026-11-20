@@ -26,13 +26,13 @@
   <img src="assets/divider.svg" alt="" width="100%"/>
 </p>
 
-## 👤 About & Focus
+## 👤 About & Engineering Focus
 
 <p align="center">
   <img src="assets/system-spec.svg" width="100%" alt="System Specifications & Profile"/>
 </p>
 
-> **"Computer Science student working with Python, Linux, and system security fundamentals. I focus on building practical tools, studying operating system internals, and understanding how software behaves under the hood."**
+> **"Computer Science student working across Systems Engineering and Security Research. With a background building practical Computer Vision (YOLOv8, OpenCV) and Applied ML pipelines, my current work centers on Linux architecture, operating system internals, network protocols, and web security analysis."**
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%"/>
@@ -68,6 +68,17 @@
     </td>
   </tr>
   <tr>
+    <td width="26%" valign="top"><strong>🧠 AI &amp; Computer Vision</strong></td>
+    <td width="74%">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+    </td>
+  </tr>
+  <tr>
     <td width="26%" valign="top"><strong>⚙️ Tools &amp; Environment</strong></td>
     <td width="74%">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -75,16 +86,6 @@
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnubash&logoColor=white" alt="Terminal"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>🔬 Applied Technologies</strong></td>
-    <td width="74%">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
     </td>
   </tr>
 </table>
@@ -136,7 +137,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/atia-sanjida-085947233/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Atia%20Sanjida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:atia.abk@gmail.com">

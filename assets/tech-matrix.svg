@@ -90,24 +90,24 @@
     <text x="620" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#7ee787" text-anchor="middle">UTILITY DEVELOPMENT</text>
   </g>
 
-  <!-- Card 4: Applied Vision & ML -->
+  <!-- Card 4: AI & Computer Vision -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4.2s" repeatCount="indefinite"/>
     <rect x="751" y="10" width="233" height="245" rx="16" fill="url(#cardBg)" stroke="#8957e5" stroke-opacity="0.8" stroke-width="1.5"/>
     
     <rect x="765" y="24" width="38" height="38" rx="10" fill="url(#purpleGrad)"/>
-    <text x="784" y="49" font-size="20" text-anchor="middle">👁️</text>
+    <text x="784" y="49" font-size="20" text-anchor="middle">🧠</text>
 
-    <text x="811" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">Vision &amp; Data</text>
-    <text x="811" y="58" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#d2a8ff">APPLIED PROJECTS</text>
+    <text x="811" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">AI &amp; Computer Vision</text>
+    <text x="811" y="58" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#d2a8ff">PROVEN PIPELINES</text>
 
-    <text x="765" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• OpenCV Video Processing</text>
-    <text x="765" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• YOLOv8 Vehicle Tracking</text>
+    <text x="765" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• YOLOv8 Vehicle Detection</text>
+    <text x="765" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• OpenCV Video Pipelines</text>
     <text x="765" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Dataset File Verifiers</text>
-    <text x="765" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• CSV Data Processing</text>
-    <text x="765" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• Java 3D Game Project</text>
+    <text x="765" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• CSV Sequence Processing</text>
+    <text x="765" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9">• ML Predictive Analysis</text>
 
     <rect x="765" y="218" width="205" height="22" rx="11" fill="#21262d" stroke="#8957e5" stroke-width="0.8"/>
-    <text x="867" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#d2a8ff" text-anchor="middle">APPLIED EXPERIMENTS</text>
+    <text x="867" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#d2a8ff" text-anchor="middle">APPLIED ML &amp; VISION</text>
   </g>
 </svg>
