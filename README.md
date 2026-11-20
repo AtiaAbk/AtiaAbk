@@ -125,17 +125,17 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" alt="AtiaAbk's GitHub stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800&v=2" alt="AtiaAbk's GitHub stats" height="175"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&v=2" alt="Top Languages" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AtiaAbk&theme=tokyonight&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f05032&currStreakLabel=388bfd" alt="GitHub Streak" width="85%"/>
+  <img src="https://streak-stats.demolab.com/?user=AtiaAbk&theme=tokyonight&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f05032&currStreakLabel=388bfd&cache_seconds=1800&v=2" alt="GitHub Streak" width="85%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=f05032&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=f05032&area=true&hide_border=true&v=2" alt="Contribution Graph" width="95%"/>
 </p>
 
 </div>
