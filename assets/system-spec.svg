@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img">
-  <title>Atia Sanjida - System Specifications & Engineering Profile</title>
+  <title>Atia Sanjida - System Specifications &amp; Engineering Profile</title>
   <defs>
     <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a0d14"/>
@@ -50,7 +50,7 @@
     atia@sec-station: ~ (sys-fetch -v 2.0)
   </text>
 
-  <!-- Left Column: Graphic Monogram & Sys Badge -->
+  <!-- Left Column: Graphic Monogram &amp; Sys Badge -->
   <g transform="translate(40, 68)">
     <rect width="260" height="260" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
     

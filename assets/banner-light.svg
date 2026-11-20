@@ -44,33 +44,7 @@
     </pattern>
   </defs>
 
-  <style>
-    .role-1 { animation: role1 12s infinite; }
-    .role-2 { animation: role2 12s infinite; }
-    .role-3 { animation: role3 12s infinite; }
-    .role-4 { animation: role4 12s infinite; }
-
-    @keyframes role1 {
-      0%, 22%   { opacity: 1; transform: translateY(0px); }
-      25%, 97%  { opacity: 0; transform: translateY(-8px); }
-      100%      { opacity: 1; transform: translateY(0px); }
-    }
-    @keyframes role2 {
-      0%, 23%   { opacity: 0; transform: translateY(8px); }
-      26%, 47%  { opacity: 1; transform: translateY(0px); }
-      50%, 100% { opacity: 0; transform: translateY(-8px); }
-    }
-    @keyframes role3 {
-      0%, 48%   { opacity: 0; transform: translateY(8px); }
-      51%, 72%  { opacity: 1; transform: translateY(0px); }
-      75%, 100% { opacity: 0; transform: translateY(-8px); }
-    }
-    @keyframes role4 {
-      0%, 73%   { opacity: 0; transform: translateY(8px); }
-      76%, 97%  { opacity: 1; transform: translateY(0px); }
-      100%      { opacity: 0; transform: translateY(-8px); }
-    }
-  </style>
+  
 
   <rect width="1000" height="290" rx="18" fill="url(#bgGradLight)"/>
   <rect width="1000" height="290" rx="18" fill="url(#dotGridLight)"/>
@@ -122,19 +96,13 @@
     <text x="350" y="34" font-size="28">👋</text>
   </g>
 
-  <!-- Roles -->
-  <g transform="translate(182, 162)">
-    <text class="role-1" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#1f2328">
-      🛡️ <tspan fill="#0969da">Security Researcher (Learner)</tspan> — Web security, vulnerability research &amp; labs
+    <!-- Roles & Technical Path -->
+  <g transform="translate(182, 154)">
+    <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#1f2328">
+      🛡️ <tspan fill="#0969da" font-weight="700">Security Researcher (Learner)</tspan> &amp; <tspan fill="#1a7f37" font-weight="700">Systems Engineering Aspirant</tspan>
     </text>
-    <text class="role-2" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#1f2328">
-      🐧 <tspan fill="#8250df">Systems Engineering Enthusiast</tspan> — Linux internals, kernel concepts &amp; C/C++
-    </text>
-    <text class="role-3" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#1f2328">
-      🌐 <tspan fill="#1a7f37">Network &amp; Low-Level Systems</tspan> — Protocol analysis, Bash automation &amp; scripting
-    </text>
-    <text class="role-4" x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16.5" font-weight="600" fill="#1f2328">
-      📝 <tspan fill="#cf222e">Knowledge Documenter</tspan> — Curating structured Git &amp; Linux visual guides
+    <text x="0" y="26" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13.5" font-weight="500" fill="#1f2328">
+      🐧 <tspan fill="#8250df">Linux Internals</tspan> <tspan fill="#57606a">•</tspan> <tspan fill="#0969da">Vulnerability Labs (SQLi, XSS)</tspan> <tspan fill="#57606a">•</tspan> <tspan fill="#1f2328">C/C++ &amp; Python Scripting</tspan>
     </text>
   </g>
 
