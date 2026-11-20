@@ -38,7 +38,9 @@
   <img src="assets/system-spec.svg" width="100%" alt="System Specifications & Profile"/>
 </p>
 
-> **"B.Sc. student in Information & Communication Engineering (ICE). Systems Engineering Learner and Security Researcher focusing on cybersecurity, ethical hacking, and operating system internals. Currently learning AI/ML and Agentic AI workflows alongside applied experience building real-time Computer Vision (YOLOv8, OpenCV) pipelines."**
+<p align="center">
+  <img src="assets/terminal-bio.svg" width="100%" alt="Linux Terminal Session"/>
+</p>
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%"/>

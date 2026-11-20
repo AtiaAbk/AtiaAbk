@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 215" width="1000" height="215" role="img">
+  <title>Atia Sanjida - Linux Terminal Session</title>
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913"/>
+      <stop offset="50%" stop-color="#0a101f"/>
+      <stop offset="100%" stop-color="#060913"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39d353">
+        <animate attributeName="stop-color" values="#39d353;#58a6ff;#bc8cff;#39d353" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#bc8cff;#39d353;#58a6ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#bc8cff">
+        <animate attributeName="stop-color" values="#bc8cff;#39d353;#58a6ff;#bc8cff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Cyber Binary Background Pattern -->
+    <pattern id="binaryStream" width="340" height="96" patternUnits="userSpaceOnUse">
+      <text x="10" y="20" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#39d353" fill-opacity="0.08" letter-spacing="3">01001001 01000011 01000101 00100000</text>
+      <text x="45" y="44" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#58a6ff" fill-opacity="0.07" letter-spacing="3">01010011 01000101 01000011 01010101</text>
+      <text x="15" y="68" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#39d353" fill-opacity="0.07" letter-spacing="3">01010011 01011001 01010011 01010100</text>
+      <text x="50" y="92" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#bc8cff" fill-opacity="0.06" letter-spacing="3">01001100 01001110 01011000 00100000</text>
+    </pattern>
+
+    <!-- Tactical Grid Lines -->
+    <pattern id="termGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58a6ff" stroke-width="0.7" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .t-line {
+      animation: printLine 0.4s cubic-bezier(0.4, 0, 0.2, 1) both;
+    }
+    .t-l1 { animation-delay: 0.1s; }
+    .t-l2 { animation-delay: 0.35s; }
+    .t-l3 { animation-delay: 0.6s; }
+    .t-l4 { animation-delay: 0.85s; }
+    .t-l5 { animation-delay: 1.1s; }
+    .t-l6 { animation-delay: 1.35s; }
+
+    @keyframes printLine {
+      0%   { opacity: 0; transform: translateY(4px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <!-- Terminal Body Background -->
+  <rect width="1000" height="215" rx="14" fill="url(#termBg)"/>
+  <rect width="1000" height="215" rx="14" fill="url(#termGrid)"/>
+  <rect width="1000" height="215" rx="14" fill="url(#binaryStream)"/>
+  <rect x="1" y="1" width="998" height="213" rx="13" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Terminal Top Bar -->
+  <rect x="1" y="1" width="998" height="34" rx="13" fill="#111622" fill-opacity="0.95"/>
+  <rect x="1" y="20" width="998" height="15" fill="#111622" fill-opacity="0.95"/>
+  <line x1="1" y1="35" x2="999" y2="35" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Window controls -->
+  <circle cx="24" cy="18" r="5.5" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="5.5" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="5.5" fill="#27c93f"/>
+
+  <!-- Centered Session Title -->
+  <text x="500" y="22" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600" fill="#8b949e" text-anchor="middle">
+    atia@ice-station: ~/scripts/about-me.sh — zsh
+  </text>
+
+  <!-- Right status pill -->
+  <circle cx="896" cy="18" r="4" fill="#39d353">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="908" y="22" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" fill="#7ee787">
+    EXEC: 0.04s
+  </text>
+
+  <!-- Terminal Execution Content -->
+  <g transform="translate(30, 0)">
+    <!-- Command Invocation -->
+    <g class="t-line t-l1">
+      <text x="0" y="62" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500">
+        <tspan fill="#39d353" font-weight="700">atia@ice-station</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff" font-weight="700">~/scripts</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#e6edf3" font-weight="600">./about-me.sh --verbose</tspan>
+      </text>
+    </g>
+
+    <!-- Output Row 1: Identity & Degree -->
+    <g class="t-line t-l2">
+      <text x="0" y="87" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500">
+        <tspan fill="#58a6ff" font-weight="700">[+] Identity   :</tspan> <tspan fill="#e6edf3">Atia Sanjida (Oishi)</tspan> <tspan fill="#8b949e">|</tspan> <tspan fill="#39d353" font-weight="600">B.Sc. in Information &amp; Communication Eng. (ICE)</tspan>
+      </text>
+    </g>
+
+    <!-- Output Row 2: Systems & Security -->
+    <g class="t-line t-l3">
+      <text x="0" y="111" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500">
+        <tspan fill="#58a6ff" font-weight="700">[+] Focus      :</tspan> <tspan fill="#79c0ff" font-weight="600">Systems Engineering Learner</tspan> <tspan fill="#8b949e">&amp;</tspan> <tspan fill="#f0883e" font-weight="600">Security Researcher (Ethical Hacking)</tspan>
+      </text>
+    </g>
+
+    <!-- Output Row 3: AI & Vision -->
+    <g class="t-line t-l4">
+      <text x="0" y="135" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500">
+        <tspan fill="#58a6ff" font-weight="700">[+] Exploring  :</tspan> <tspan fill="#d2a8ff" font-weight="600">AI/ML &amp; Agentic AI Workflows</tspan> <tspan fill="#8b949e">•</tspan> <tspan fill="#c9d1d9">Real-Time Computer Vision Pipelines</tspan>
+      </text>
+    </g>
+
+    <!-- Output Row 4: Tools & RF -->
+    <g class="t-line t-l5">
+      <text x="0" y="159" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500">
+        <tspan fill="#58a6ff" font-weight="700">[+] Toolset    :</tspan> <tspan fill="#c9d1d9">Linux Architecture • C/C++ • Python • CST Studio (Antenna) • Unreal Engine • Arduino/RPi</tspan>
+      </text>
+    </g>
+
+    <!-- Output Row 5: Ready Prompt with Blinking Cursor -->
+    <g class="t-line t-l6">
+      <text x="0" y="185" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500">
+        <tspan fill="#39d353" font-weight="700">atia@ice-station</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff" font-weight="700">~/scripts</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#39d353">█<animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></tspan>
+      </text>
+    </g>
+  </g>
+</svg>
