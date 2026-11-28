@@ -134,9 +134,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800&v=1795812596" alt="AtiaAbk's GitHub stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AtiaAbk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800&v=1795848596" alt="AtiaAbk's GitHub stats" height="175"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&v=1795812596" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiaAbk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&v=1795848596" alt="Top Languages" height="175"/>
 </p>
 
 <p align="center">
@@ -152,7 +152,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=f05032&area=true&hide_border=true&v=1795812596" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtiaAbk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=f05032&area=true&hide_border=true&v=1795848596" alt="Contribution Graph" width="95%"/>
 </p>
 
 </div>
